@@ -4,6 +4,8 @@ import random
 import matplotlib.pyplot as plt
 from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import LabelEncoder, Imputer
+from sklearn import preprocessing
+from sklearn.model_selection import KFold
 
 '''
 http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
@@ -11,12 +13,18 @@ Documentation on how the library and regressor works. Additional information on 
 '''
 
 raw_data = pd.read_csv('player_data.csv')
+
+#drop unnecessary columns
 raw_data = raw_data.drop(['player_id'], axis=1)
 raw_data = raw_data.drop(['Age5'], axis=1)
 raw_data = raw_data.drop(['College5'], axis=1)
+
+#retain column names for later
 col_names = list(raw_data)
 
 def preprocess():
+
+    #change categorical data to numerical
     le_name = LabelEncoder()
     raw_data['name'] = le_name.fit_transform(raw_data['name'].astype(str))
 
@@ -47,10 +55,14 @@ def preprocess():
     le_c1 = LabelEncoder()
     raw_data['College1'] = le_c1.fit_transform(raw_data['College1'].astype(str))
 
+    #impute missing data using median
     imp = Imputer(missing_values='NaN', strategy='median', axis=0)
     imp.fit(raw_data)
+
+    #return as different object
     raw_data2 = imp.transform(raw_data)
-    return raw_data2
+    raw_data3 = preprocessing.scale(raw_data2)
+    return raw_data3
 
 def getData():
     dataFileNameTrain = 'Training.csv'  # Training data csv file path
@@ -83,40 +95,49 @@ def classify():
 
 # Code to split data into training and testing datasets.
 
-def splitDataset(dataSet, splitRatio):
-    #random.shuffle(dataSet)
+def kcv(dataSet, splitRatio):
+    #randomly shuffle dataSet
     dataSet.sample(frac=1)
-    trainSize = int(len(dataSet) * splitRatio)
-    trainSet = dataSet[:trainSize]
-    testSet = dataSet[trainSize:]
-    return trainSet, testSet
 
-def saveSplitDataset(splitRatio):
-    #call splitDataset and 
-    trainSet,testSet = splitDataset(raw_data,splitRatio)
-    trainSet.to_csv('Training.csv')
-    testSet.to_csv('Testing.csv')
+    #split according to ratio
+    kf = KFold(n_splits = splitRatio)
+    accuracies = []
+    for train_ind, test_ind in kf.split(dataSet):
+        trainSet = dataSet.iloc[train_ind]
+        testSet = dataSet.iloc[test_ind]
+        trainSet.to_csv('Training.csv')
+        testSet.to_csv('Testing.csv')
+        predictions, y_test = classify()
+        accuracy = calc_rmse(predictions, y_test)
+        accuracies.append(accuracy)
+    av_acc = sum(accuracies)/float(len(accuracies))
+    return av_acc	
 
-splitRatios = [0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
-def main(splitRatio):
-    saveSplitDataset(splitRatio)
-    predictions, y_test = classify()
+def calc_rmse(predictions,y_test):
     accuracy = 0
     for i in range(len(predictions)):
-        accuracy += predictions[i] - y_test[i]
+        accuracy += (predictions[i]-y_test[i])**2
+    accuracy = accuracy/len(predictions)
+    accuracy = accuracy**(0.5)
     return accuracy
 
+#preprocess on the raw_data
 raw_data = pd.DataFrame(preprocess(),columns=col_names)
-trainingSizes = []
+
+#initialize arrays to be used in plot
+splitRatios = [2,3,4,5,6,7,8,9,10]
+#trainingSizes = []
 accuracies = []
+
+#fill arrays
 for i in range(len(splitRatios)):
-    trainingSizes.append(len(raw_data)*splitRatios[i])
-    accuracy = main(splitRatios[i])
+    #trainingSizes.append(len(raw_data)*splitRatios[i])
+    accuracy = kcv(raw_data,splitRatios[i])
     accuracies.append(accuracy)
     
 plt.plot(splitRatios, accuracies)
-plt.ylabel("Accuracy")
-plt.xlabel("Training Set Size")
+plt.ylabel("RMSE")
+plt.xlabel("Number of Splits")
 plt.title("Learning Curve")
 plt.savefig("Learning_Curve_4.png")
 print(accuracies)
