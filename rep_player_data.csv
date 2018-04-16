@@ -1,0 +1,762 @@
+"name","years","school","FG%","AST/G","TRB/G","blocks_per_game","PTS/G","steals_per_game","ws"
+"Alex Acker",3,"Pepperdine University",".457","2.8","5.6",0.431818181818182,"14.5",1.51136363636364,-0.043
+"Quincy Acy",4,"Baylor University",".602","0.6","6.0",1.27338129496403,"9.8",0.733812949640288,0.084
+"Hassan Adams",4,"University of Arizona",".499","2.0","5.4",0.653846153846154,"14.0",1.83076923076923,0.072
+"Jordan Adams",2,"University of California, Los Angeles",".467","2.1","4.6",0.246376811594203,"16.4",2.43478260869565,0.07
+"Steven Adams",1,"University of Pittsburgh",".571","0.6","6.3",2.03125,"7.2",0.65625,0.141
+"Bam Adebayo",1,"University of Kentucky",".599","0.8","8.0",1.5,"13.0",0.684210526315789,0.16
+"Arron Afflalo",3,"University of California, Los Angeles",".457","1.9","3.5",0.192307692307692,"14.8",0.615384615384615,0.078
+"Maurice Ager",4,"Michigan State University",".441","1.5","3.4",0.314516129032258,"12.5",0.5,-0.089
+"Solomon Alabi",3,"Florida State University",".534","0.4","5.4",2.06493506493507,"9.1",0.506493506493506,0.01
+"Cole Aldrich",3,"University of Kansas",".574","0.6","7.7",2.27927927927928,"9.4",0.531531531531532,0.137
+"LaMarcus Aldridge",2,"University of Texas at Austin",".586","0.6","8.2",1.83018867924528,"13.5",1.26415094339623,0.154
+"Courtney Alexander",4,"California State University, Fresno",".456","2.2","3.9",0.1875,"18.9",1.14285714285714,0.048
+"Joe Alexander",3,"West Virginia University",".447","2.0","4.8",1.20731707317073,"12.1",0.597560975609756,0.03
+"Jarrett Allen",1,"University of Texas at Austin",".566","0.8","8.4",1.54545454545455,"13.4",0.575757575757576,0.12
+"Kadeem Allen",2,"University of Arizona",".459","3.3","3.6",0.705882352941177,"9.1",1.29411764705882,-0.096
+"Lavoy Allen",4,"Temple University",".534","2.1","8.5",1.57777777777778,"10.5",0.533333333333333,0.096
+"Tony Allen",3,"Oklahoma State University",".488","3.0","5.7",0.545454545454545,"15.6",1.35353535353535,0.103
+"Morris Almond",4,"Rice University",".492","1.0","3.5",0.537190082644628,"15.1",0.735537190082645,0.005
+"Al-Farouq Aminu",2,"Wake Forest University",".476","1.4","9.4",1.32258064516129,"14.4",1.19354838709677,0.069
+"James Anderson",3,"Oklahoma State University",".460","1.6","5.1",0.594059405940594,"17.9",1.10891089108911,0.037
+"Justin Anderson",3,"University of Virginia",".430","1.8","3.5",0.857142857142857,"8.9",0.612244897959184,0.077
+"Kyle Anderson",2,"University of California, Los Angeles",".452","5.0","8.7",0.816901408450704,"12.2",1.77464788732394,0.128
+"Ryan Anderson",2,"University of California",".484","1.0","9.0",0.545454545454545,"18.7",0.515151515151515,0.136
+"Ike Anigbogu",1,"University of California, Los Angeles",".564","0.2","4.0",1.20689655172414,"4.7",0.172413793103448,0.181
+"Carmelo Anthony",1,"Syracuse University",".453","2.2","10.0",0.857142857142857,"22.2",1.57142857142857,0.131
+"OG Anunoby",2,"Indiana University",".563","0.8","3.5",0.94,"6.8",0.96,0.098
+"Rafael Araujo",2,"Brigham Young University",".567","1.2","9.5",0.645161290322581,"15.1",1.41935483870968,-0.013
+"Robert Archibald",4,"University of Illinois at Urbana-Champaign",".570","0.8","4.1",0.623076923076923,"6.2",0.5,-0.004
+"Gilbert Arenas",2,"University of Arizona",".466","2.2","3.8",0.228571428571429,"15.8",1.94285714285714,0.127
+"Trevor Ariza",1,"University of California, Los Angeles",".426","2.1","6.5",0.44,"11.6",1.68,0.099
+"Brandon Armstrong",2,"Pepperdine University",".439","1.5","3.2",0.215384615384615,"18.1",1.69230769230769,-0.039
+"Hilton Armstrong",4,"University of Connecticut",".563","0.6","3.9",1.45801526717557,"4.7",0.32824427480916,0.055
+"Darrell Arthur",2,"University of Kansas",".541","0.6","5.5",1.3974358974359,"11.3",0.67948717948718,0.065
+"D.J. Augustin",2,"University of Texas at Austin",".443","6.2","2.9",0.0410958904109589,"16.9",1.36986301369863,0.096
+"James Augustine",4,"University of Illinois at Urbana-Champaign",".617","1.1","7.5",1.01459854014599,"10.1",1.02919708029197,0.101
+"Mario Austin",3,"Mississippi State University",".531","1.1","6.3",0.582417582417582,"13.2",0.703296703296703,NA
+"Luke Babbitt",2,"University of Nevada, Reno",".480","1.8","8.1",0.75,"19.4",0.867647058823529,0.067
+"Dwayne Bacon",2,"Florida State University",".449","1.6","5.0",0.072463768115942,"16.5",0.985507246376812,-0.004
+"Cameron Bairstow",4,"University of New Mexico",".517","0.8","4.8",0.738805970149254,"9.2",0.462686567164179,-0.021
+"Wade Baldwin",2,"Vanderbilt University",".431","4.8","4.1",0.220588235294118,"11.6",1.32352941176471,-0.041
+"Renaldo Balkman",3,"University of South Carolina",".553","1.7","5.3",1.07692307692308,"7.4",1.18269230769231,0.113
+"Lonzo Ball",1,"University of California, Los Angeles",".551","7.6","6.0",0.777777777777778,"14.6",1.83333333333333,0.038
+"Marcus Banks",2,"University of Nevada, Las Vegas",".495","4.3","3.3",0.158730158730159,"18.1",2.50793650793651,0.057
+"Erick Barkley",2,"St. John's University",".396","4.6","3.1",0.276923076923077,"14.6",2.56923076923077,0.027
+"Harrison Barnes",2,"University of North Carolina",".430","1.3","5.5",0.386666666666667,"16.3",0.906666666666667,0.092
+"Matt Barnes",4,"University of California, Los Angeles",".469","2.0","4.8",0.371900826446281,"8.8",0.950413223140496,0.093
+"Will Barton",2,"University of Memphis",".471","2.9","6.5",0.6,"15.2",1.48571428571429,0.077
+"Brandon Bass",2,"Louisiana State University",".540","0.7","8.2",1.76271186440678,"15.1",0.76271186440678,0.125
+"Shane Battier",4,"Duke University",".500","1.6","6.1",1.73972602739726,"13.6",1.82191780821918,0.121
+"Lonny Baxter",4,"University of Maryland",".553","0.7","7.2",1.64492753623188,"13.5",0.869565217391304,0.075
+"Jerryd Bayless",1,"University of Arizona",".458","4.0","2.7",0.1,"19.7",0.966666666666667,0.076
+"Bradley Beal",1,"University of Florida",".445","2.2","6.7",0.837837837837838,"14.8",1.37837837837838,0.102
+"Jerome Beasley",4,"University of North Dakota",".516","0.5","6.4",0.276422764227642,"15.3",0.357723577235772,-0.117
+"Malik Beasley",1,"Florida State University",".471","1.5","5.3",0.176470588235294,"15.6",0.941176470588235,0.034
+"Michael Beasley",1,"Kansas State University",".532","1.2","12.4",1.63636363636364,"26.2",1.27272727272727,0.054
+"Jordan Bell",3,"University of Oregon",".610","1.5","6.8",2.22857142857143,"7.8",1.05714285714286,0.199
+"Troy Bell",4,"Boston College",".424","3.5","4.0",0.286885245901639,"21.6",2.22950819672131,-0.326
+"DeAndre Bembry",3,"Saint Joseph's University",".457","3.6","6.7",0.772277227722772,"15.7",1.41584158415842,-0.021
+"Anthony Bennett",1,"University of Nevada, Las Vegas",".533","1.0","8.1",1.22857142857143,"16.1",0.685714285714286,0.013
+"Keith Benson",4,"Oakland University",".558","0.7","8.2",2.73333333333333,"14.1",0.503703703703704,-0.005
+"Ben Bentil",2,"Providence College",".455","0.9","6.3",0.695652173913043,"13.8",0.565217391304348,-0.473
+"Patrick Beverley",2,"University of Arkansas",".420","2.8","5.5",0.428571428571429,"13.0",1.5,0.111
+"Jabari Bird",4,"University of California",".442","1.2","3.3",0.307017543859649,"10.8",0.508771929824561,0.064
+"DeJuan Blair",2,"University of Pittsburgh",".568","1.1","10.7",1.04166666666667,"13.6",1.61111111111111,0.129
+"Steve Blake",4,"University of Maryland",".401","7.0","3.4",0.27536231884058,"8.3",1.69565217391304,0.067
+"Will Blalock",3,"Iowa State University",".421","5.0","3.1",0.10752688172043,"11.6",1.90322580645161,-0.032
+"Eric Bledsoe",1,"University of Kentucky",".462","2.9","3.1",0.324324324324324,"11.3",1.40540540540541,0.097
+"Jaron Blossomgame",4,"Clemson University",".488","1.1","6.5",0.7421875,"13.5",0.6484375,NA
+"Keith Bogans",4,"University of Kentucky",".437","2.3","4.1",0.111111111111111,"14.2",1.14074074074074,0.068
+"Andrew Bogut",2,"University of Utah",".603","2.3","11.1",1.60294117647059,"16.6",0.705882352941177,0.122
+"Jonah Bolden",1,"",".415","1.1","4.8",0.870967741935484,"4.6",0.67741935483871,NA
+"Joel Bolomboy",4,"Weber State University",".528","0.7","10.1",1.36923076923077,"11.4",0.553846153846154,0.133
+"Matt Bonner",4,"University of Florida",".503","1.2","5.9",0.488549618320611,"12.0",0.717557251908397,0.138
+"Devin Booker",1,"University of Kentucky",".470","1.1","2.0",0.0526315789473684,"10.0",0.447368421052632,0.05
+"Trevor Booker",4,"Clemson University",".559","1.7","7.9",1.85820895522388,"12.9",1.07462686567164,0.115
+"Josh Boone",3,"University of Connecticut",".578","0.8","7.0",2.15533980582524,"9.3",0.514563106796116,0.097
+"Carlos Boozer",3,"Duke University",".631","1.1","7.2",0.712871287128713,"14.9",0.95049504950495,0.143
+"Curtis Borchardt",3,"Stanford University",".534","1.2","7.2",2.18181818181818,"10.2",0.409090909090909,0.041
+"Chris Bosh",1,"Georgia Institute of Technology",".560","1.2","9.0",2.16129032258065,"15.6",0.967741935483871,0.159
+"Ruben Boumtje-Boumtje",4,"Georgetown University",".485","0.9","7.0",2.52475247524752,"9.6",0.811881188118812,0.027
+"Craig Brackins",3,"Iowa State University",".445","1.6","7.7",1.03125,"16.0",0.541666666666667,-0.089
+"Avery Bradley",1,"University of Texas at Austin",".432","2.1","2.9",0.529411764705882,"11.6",1.29411764705882,0.055
+"Michael Bradley",3,"Villanova University",".677","1.3","5.4",1.02,"10.9",0.64,0.047
+"Tony Bradley",1,"University of North Carolina",".573","0.6","5.1",0.578947368421053,"7.1",0.263157894736842,0.006
+"Corey Brewer",3,"University of Florida",".480","2.8","4.3",0.407407407407407,"11.3",1.62962962962963,0.054
+"Jamison Brewer",2,"Auburn University",".456","4.1","4.7",0.0517241379310345,"5.7",1.08620689655172,-0.001
+"Ronnie Brewer",3,"University of Arkansas",".462","3.3","5.0",0.544444444444444,"15.7",2.4,0.127
+"Jon Brockman",4,"University of Washington",".534","1.0","9.8",0.137404580152672,"13.8",0.847328244274809,0.113
+"Malcolm Brogdon",4,"University of Virginia",".430","2.5","4.1",0.227941176470588,"13.3",0.860294117647059,0.095
+"Aaron Brooks",4,"University of Oregon",".430","4.1","3.5",0.139130434782609,"13.1",1.10434782608696,0.069
+"Dillon Brooks",3,"University of Oregon",".472","2.6","4.5",0.467889908256881,"14.8",0.880733944954128,0.041
+"MarShon Brooks",4,"Providence College",".464","1.5","4.3",0.716814159292035,"14.4",1.14159292035398,0.041
+"Alec Brown",4,"University of Wisconsin-Green Bay",".465","0.9","6.3",2.45238095238095,"13.3",0.587301587301587,NA
+"Anthony Brown",5,"Stanford University",".428","1.6","4.8",0.159722222222222,"10.8",0.6875,-0.019
+"Damone Brown",4,"Syracuse University",".497","1.2","6.0",0.849557522123894,"10.9",1.04424778761062,-0.1
+"Dee Brown",4,"University of Illinois at Urbana-Champaign",".422","4.9","3.3",0.0510948905109489,"13.2",1.68613138686131,0.008
+"Derrick Brown",3,"Xavier University",".573","1.5","5.6",0.764150943396226,"10.3",0.707547169811321,0.085
+"Ernest Brown",1,"Indian Hills Community College",".609","0.6","6.9",NA,"12.0",NA,-0.349
+"Jaylen Brown",1,"University of California",".431","2.0","5.4",0.647058823529412,"14.6",0.794117647058823,0.08
+"Kedrick Brown",2,"Okaloosa-Walton Community College",".542","3.4","9.6",NA,"19.9",NA,0.074
+"Lorenzo Brown",3,"North Carolina State University",".429","5.8","4.2",0.495049504950495,"11.6",1.7029702970297,-0.007
+"Markel Brown",4,"Oklahoma State University",".439","2.3","4.3",0.843283582089552,"12.4",1.01492537313433,0.031
+"Shannon Brown",3,"Michigan State University",".457","1.9","3.4",0.11340206185567,"12.2",1.27835051546392,0.06
+"Sterling Brown",4,"Southern Methodist University",".504","2.2","4.8",0.375,"8.2",1.02205882352941,0.065
+"Thomas Bryant",2,"Indiana University",".592","1.2","6.2",1.21739130434783,"12.2",0.623188405797101,-0.101
+"Chase Budinger",3,"University of Arizona",".469","2.8","5.8",0.35,"17.0",1.25,0.083
+"Reggie Bullock",3,"University of North Carolina",".439","1.7","5.0",0.21,"9.9",0.87,0.087
+"Trey Burke",2,"University of Michigan",".450","5.7","3.3",0.452054794520548,"16.9",1.27397260273973,0.043
+"Alec Burks",2,"University of Colorado",".495","2.4","5.8",0.352941176470588,"19.0",1.11764705882353,0.071
+"Antonio Burks",3,"University of Memphis",".469","5.4","2.6",0.164835164835165,"11.3",1.94505494505495,0.004
+"Caron Butler",2,"University of Connecticut",".465","3.0","7.6",0.349206349206349,"18.0",2.12698412698413,0.086
+"Jimmy Butler",3,"Marquette University",".508","1.7","5.5",0.471698113207547,"12.0",1.08490566037736,0.186
+"Rasual Butler",4,"La Salle University",".409","1.6","5.9",1.09090909090909,"19.3",0.981818181818182,0.058
+"Derrick Byars",4,"Vanderbilt University",".463","2.2","3.7",0.174603174603175,"11.0",0.944444444444444,0.147
+"Nick Calathes",2,"University of Florida",".455","6.3","5.3",0.125,"16.3",1.75,0.063
+"Kentavious Caldwell-Pope",2,"University of Georgia",".415","1.5","6.1",0.4375,"15.8",1.921875,0.075
+"Isaiah Canaan",4,"Murray State University",".450","2.9","2.8",0.0757575757575758,"15.5",1.18939393939394,0.052
+"Derrick Caracter",3,"University of Texas at El Paso",".563","0.6","5.6",0.772151898734177,"10.3",0.670886075949367,0.057
+"Brian Cardinal",4,"Purdue University",".461","2.1","5.7",0.333333333333333,"12.0",1.96212121212121,0.114
+"Rodney Carney",4,"University of Memphis",".415","1.2","4.9",0.984962406015038,"14.3",1.00751879699248,0.064
+"DeMarre Carroll",4,"University of Missouri",".535","1.6","6.0",0.440298507462687,"11.2",1.13432835820896,0.109
+"Michael Carter-Williams",2,"Syracuse University",".398","5.2","3.6",0.409090909090909,"8.2",1.95454545454545,0.025
+"Willie Cauley-Stein",3,"University of Kentucky",".593","0.9","6.2",2.21904761904762,"8.0",1.0952380952381,0.109
+"Lionel Chalmers",4,"Xavier University",".425","3.3","2.9",0.0569105691056911,"12.7",1.2520325203252,-0.025
+"Mario Chalmers",3,"University of Kansas",".486","3.8","2.8",0.4,"12.2",2.57272727272727,0.092
+"Wilson Chandler",2,"DePaul University",".445","1.2","7.1",1.45762711864407,"12.9",0.694915254237288,0.069
+"Josh Childress",3,"Stanford University",".438","1.8","6.8",1.1046511627907,"12.3",0.895348837209302,0.118
+"Marquese Chriss",1,"University of Washington",".530","0.8","5.4",1.61764705882353,"13.7",0.941176470588235,0.046
+"Rakeem Christmas",4,"Syracuse University",".560","0.6","5.3",1.73943661971831,"7.4",0.542253521126761,0.105
+"Semaj Christon",2,"Xavier University",".462","4.4","2.8",0.171875,"16.2",1.40625,0.006
+"Earl Clark",3,"University of Louisville",".467","1.7","7.0",1.19230769230769,"10.6",0.894230769230769,0.038
+"Jordan Clarkson",3,"University of Missouri",".440","2.7","3.3",0.279569892473118,"15.4",0.935483870967742,0.045
+"Speedy Claxton",4,"Hofstra University",".468","5.5","4.8",0.277310924369748,"16.9",2.42016806722689,0.08
+"Mateen Cleaves",4,"Michigan State University",".406","6.6","2.1",0.130081300813008,"12.5",1.58536585365854,-0.021
+"Norris Cole",4,"Cleveland State University",".435","3.3","3.2",0.0785714285714286,"14.1",1.47857142857143,0.018
+"Darren Collison",4,"University of California, Los Angeles",".478","4.1","2.3",0.0921985815602837,"11.6",1.63829787234043,0.108
+"Dwayne Collins",4,"University of Miami",".565","0.9","7.0",0.738095238095238,"9.9",0.682539682539683,NA
+"Jason Collier",4,"Georgia Institute of Technology",".458","1.2","7.1",1.1340206185567,"13.9",0.618556701030928,0.042
+"Jarron Collins",4,"Stanford University",".520","1.3","5.5",0.527131782945736,"8.4",0.565891472868217,0.088
+"Jason Collins",4,"Stanford University",".612","0.8","6.6",1.21917808219178,"10.8",0.465753424657534,0.064
+"John Collins",2,"Wake Forest University",".601","0.4","7.0",1.171875,"13.4",0.46875,0.174
+"Mardy Collins",4,"Temple University",".399","3.2","4.6",0.232,"15.4",2.32,-0.027
+"Nick Collison",4,"University of Kansas",".562","1.8","8.0",1.7112676056338,"14.8",1.09154929577465,0.115
+"Zach Collins",1,"Gonzaga University",".652","0.4","5.9",1.76923076923077,"10.0",0.461538461538462,0.023
+"Mike Conley",1,"Ohio State University",".518","6.1","3.4",0.256410256410256,"11.3",2.23076923076923,0.13
+"Pat Connaughton",4,"University of Notre Dame",".450","1.8","5.9",0.510791366906475,"10.5",0.669064748201439,0.079
+"Brian Cook",4,"University of Illinois at Urbana-Champaign",".510","1.3","6.2",1.03030303030303,"13.2",0.696969696969697,0.086
+"Daequan Cook",1,"Ohio State University",".445","1.0","4.3",0.256410256410256,"9.8",0.717948717948718,0.039
+"Omar Cook",1,"St. John's University",".360","8.7","3.0",0.172413793103448,"15.3",2.27586206896552,-0.021
+"DeMarcus Cousins",1,"University of Kentucky",".558","1.0","9.8",1.76315789473684,"15.1",0.973684210526316,0.115
+"Isaiah Cousins",4,"University of Oklahoma",".408","2.7","3.9",0.262773722627737,"9.7",1.14598540145985,NA
+"Allen Crabbe",3,"University of California",".446","2.2","5.7",0.581632653061224,"15.7",0.857142857142857,0.087
+"Jamal Crawford",1,"University of Michigan",".412","4.5","2.8",0.941176470588235,"16.6",1.11764705882353,0.078
+"Joe Crawford",4,"University of Kentucky",".438","1.5","3.4",0.204724409448819,"11.3",0.480314960629921,0.037
+"Jordan Crawford",2,"Xavier University",".455","2.6","4.1",0.2,"15.5",1.15384615384615,0.044
+"Javaris Crittenton",1,"Georgia Institute of Technology",".450","5.8","3.7",0.0625,"14.4",2.03125,0.002
+"Jae Crowder",2,"Marquette University",".492","1.8","7.6",0.930555555555556,"14.6",1.88888888888889,0.11
+"Dante Cunningham",4,"Villanova University",".524","1.0","5.9",0.841726618705036,"9.6",1.16546762589928,0.079
+"Jared Cunningham",3,"Oregon State University",".455","2.0","3.0",0.244897959183673,"13.0",2.23469387755102,0.017
+"JamesOn Curry",3,"Oklahoma State University",".437","3.5","2.9",0.237623762376238,"13.5",0.98019801980198,NA
+"Stephen Curry",3,"Davidson College",".467","3.7","4.5",0.269230769230769,"25.3",2.125,0.208
+"Samuel Dalembert",2,"Seton Hall University",".537","0.3","5.8",2.83050847457627,"7.1",0.372881355932203,0.114
+"DeAndre Daniels",3,"University of Connecticut",".454","0.5","4.6",1.18181818181818,"9.6",0.626262626262626,NA
+"Jermareo Davidson",4,"University of Alabama",".467","1.0","7.3",1.75396825396825,"10.1",0.53968253968254,0
+"Anthony Davis",1,"University of Kentucky",".623","1.3","10.4",4.65,"14.2",1.35,0.208
+"Deyonta Davis",1,"Michigan State University",".598","0.7","5.5",1.82857142857143,"7.5",0.257142857142857,0.13
+"Ed Davis",2,"University of North Carolina",".548","0.7","7.7",2.11475409836066,"9.2",0.39344262295082,0.145
+"Glen Davis",3,"Louisiana State University",".496","1.5","9.6",1.15789473684211,"16.7",1.13684210526316,0.082
+"Paul Davis",4,"Michigan State University",".538","1.4","7.0",0.669230769230769,"13.2",1.12307692307692,0.035
+"Branden Dawson",4,"Michigan State University",".559","1.4","6.9",1.09230769230769,"10.1",1.25384615384615,0.069
+"Austin Daye",2,"Gonzaga University",".477","1.0","5.8",1.85074626865672,"11.6",0.671641791044776,0.053
+"Sam Dekker",3,"University of Wisconsin",".493","1.3","5.0",0.47787610619469,"12.1",0.646017699115044,0.091
+"Luol Deng",1,"Duke University",".476","1.8","6.9",1.05405405405405,"15.1",1.32432432432432,0.115
+"Marcus Denmon",4,"University of Missouri",".455","1.7","3.4",0.099290780141844,"12.6",1.26241134751773,NA
+"DeMar DeRozan",1,"University of Southern California",".523","1.5","5.7",0.371428571428571,"13.9",0.885714285714286,0.112
+"Cheick Diallo",1,"University of Kansas",".569","0.0","2.5",0.851851851851852,"3.0",0.259259259259259,0.102
+"Guillermo Diaz",3,"University of Miami",".448","2.6","3.4",0.268817204301075,"15.9",1.32258064516129,0.033
+"Dan Dickau",4,"Gonzaga University",".451","3.7","2.4",0.0721649484536082,"13.3",0.680412371134021,0.061
+"Kaniel Dickens",3,"University of Idaho",".466","0.5","5.4",0.541666666666667,"8.7",0.652777777777778,0.055
+"Jon Diebler",4,"Ohio State University",".427","1.9","2.8",0.166666666666667,"10.7",0.958333333333333,NA
+"Travis Diener",4,"Marquette University",".416","5.1","3.1",0.0666666666666667,"14.1",1.31666666666667,0.102
+"Gorgui Dieng",3,"University of Louisville",".545","1.2","7.9",2.61764705882353,"8.3",1.01960784313725,0.115
+"Spencer Dinwiddie",3,"University of Colorado",".420","2.6","3.3",0.337209302325581,"13.0",1.12790697674419,0.101
+"Ike Diogu",3,"Arizona State University",".571","1.2","8.8",1.68131868131868,"21.4",0.428571428571429,0.112
+"Juan Dixon",4,"University of Maryland",".468","2.6","4.2",0.184397163120567,"16.1",2.36170212765957,0.034
+"Keyon Dooling",2,"University of Missouri",".411","3.4","2.4",0.491525423728814,"12.1",1.28813559322034,0.063
+"Joey Dorsey",4,"University of Memphis",".614","0.5","8.1",1.77181208053691,"6.7",1.0738255033557,0.092
+"Tyler Dorsey",2,"University of Oregon",".455","1.8","3.9",0.146666666666667,"14.1",0.786666666666667,-0.025
+"Damyean Dotson",4,"University of Oregon",".464","1.1","5.0",0.156716417910448,"12.9",0.753731343283582,0.061
+"Quincy Douby",3,"Rutgers University",".432","2.7","2.9",0.652631578947368,"17.8",1.27368421052632,0
+"Chris Douglas-Roberts",3,"University of Memphis",".540","1.7","3.7",0.44954128440367,"14.2",1.04587155963303,0.059
+"Toney Douglas",4,"Florida State University",".442","2.6","3.8",0.284615384615385,"16.8",1.77692307692308,0.077
+"Andre Drummond",1,"University of Connecticut",".538","0.4","7.6",2.70588235294118,"10.0",0.823529411764706,0.157
+"Jared Dudley",4,"Boston College",".504","3.0","7.2",0.284615384615385,"15.9",1.35384615384615,0.107
+"Chris Duhon",4,"Duke University",".418","5.7","3.4",0.111111111111111,"8.8",2.08333333333333,0.077
+"Mike Dunleavy",3,"Duke University",".475","2.2","5.8",0.528846153846154,"13.2",1.59615384615385,0.103
+"Kris Dunn",4,"Providence College",".450","5.8","5.1",0.4,"12.8",2.18947368421053,0.018
+"Kevin Durant",1,"University of Texas at Austin",".473","1.3","11.1",1.91428571428571,"25.8",1.88571428571429,0.218
+"Cleanthony Early",2,"Wichita State University",".470","0.7","5.7",0.84,"15.1",0.773333333333333,-0.039
+"Devin Ebanks",2,"West Virginia University",".463","2.6","7.9",0.695652173913043,"11.2",0.942028985507246,0.035
+"Corsley Edwards",4,"Central Connecticut State University",".509","0.8","7.9",1.60975609756098,"14.1",0.943089430894309,0.026
+"Khalid El-Amin",3,"University of Connecticut",".416","4.4","3.0",0.0925925925925926,"15.3",1.72222222222222,0.03
+"Henry Ellenson",1,"Marquette University",".446","1.8","9.7",1.48484848484848,"17.0",0.848484848484849,-0.051
+"Wayne Ellington",3,"University of North Carolina",".463","2.2","4.1",0.121739130434783,"14.7",0.947826086956522,0.056
+"Chinemelu Elonu",3,"Texas A&M University",".633","0.2","4.4",0.866666666666667,"5.1",0.177777777777778,NA
+"Melvin Ely",4,"California State University, Fresno",".577","1.1","7.5",2.91129032258065,"15.7",0.782258064516129,0.032
+"Joel Embiid",1,"University of Kansas",".626","1.4","8.1",2.57142857142857,"11.2",0.892857142857143,0.135
+"Andre Emmett",4,"Texas Tech University",".500","1.6","6.0",0.3359375,"17.6",1.28125,0.04
+"Kim English",4,"University of Missouri",".420","1.4","3.0",0.198581560283688,"11.1",1.0709219858156,0.021
+"Tyler Ennis",1,"Syracuse University",".411","5.5","3.4",0.176470588235294,"12.9",2.08823529411765,0.019
+"Jawun Evans",2,"Oklahoma State University",".448","5.8","3.8",0.148148148148148,"16.6",1.51851851851852,-0.01
+"Jeremy Evans",4,"Western Kentucky University",".639","0.5","5.9",1.67164179104478,"7.9",0.626865671641791,0.15
+"Tyreke Evans",1,"University of Memphis",".455","3.9","5.4",0.783783783783784,"17.1",2.08108108108108,0.082
+"Daniel Ewing",4,"Duke University",".432","2.1","2.8",0.173913043478261,"11.6",1.38405797101449,0.024
+"Patrick Ewing",4,"Georgetown University",".518","1.0","3.4",0.590551181102362,"4.3",0.637795275590551,-0.158
+"Festus Ezeli",4,"Vanderbilt University",".562","0.1","4.5",1.69421487603306,"7.7",0.338842975206612,0.119
+"Kenneth Faried",4,"Morehead State University",".569","0.9","12.3",1.77205882352941,"14.8",1.67647058823529,0.157
+"Jordan Farmar",2,"University of California, Los Angeles",".410","5.2","3.0",0.181818181818182,"13.3",1.24242424242424,0.068
+"Derrick Favors",1,"Georgia Institute of Technology",".611","1.0","8.4",2.05555555555556,"12.4",0.888888888888889,0.132
+"Nick Fazekas",4,"University of Nevada, Reno",".532","1.3","9.6",1.46564885496183,"18.8",0.748091603053435,0.148
+"Kay Felder",3,"Oakland University",".426","7.8","4.3",0.188118811881188,"17.5",1.62376237623762,-0.036
+"Carrick Felix",3,"Arizona State University",".456","1.3","4.8",0.787234042553192,"10.2",1.02127659574468,0.057
+"Raymond Felton",3,"University of North Carolina",".423","6.9","4.1",0.267326732673267,"12.5",1.9009900990099,0.067
+"Landry Fields",4,"Stanford University",".463","1.6","5.0",0.418604651162791,"10.8",0.86046511627907,0.084
+"Marcus Fizer",3,"Iowa State University",".511","1.0","7.4",0.917525773195876,"18.9",0.927835051546392,0.022
+"Luis Flores",4,"Manhattan College",".451","1.9","3.7",0.176470588235294,"18.2",1.47058823529412,-0.02
+"Jonny Flynn",2,"Syracuse University",".460","6.0","2.7",0.164383561643836,"16.6",1.46575342465753,-0.015
+"Alton Ford",1,"University of Houston",".432","0.7","5.9",0.730769230769231,"10.8",0.192307692307692,0.074
+"T.J. Ford",2,"University of Texas at Austin",".406","8.0","3.8",0.136363636363636,"12.9",2.09090909090909,0.068
+"Joseph Forte",2,"University of North Carolina",".454","3.0","5.8",0.391304347826087,"18.7",1.7536231884058,-0.166
+"De'Aaron Fox",1,"University of Kentucky",".479","4.6","4.0",0.194444444444444,"16.7",1.47222222222222,-0.04
+"Randy Foye",4,"Villanova University",".399","3.2","4.8",0.396946564885496,"15.0",1.51145038167939,0.058
+"Jamaal Franklin",3,"San Diego State University",".426","1.9","7.0",0.6,"13.7",1.01176470588235,-0.006
+"Jimmer Fredette",4,"Brigham Young University",".455","3.7","2.6",0.0863309352517986,"18.7",1.20143884892086,0.037
+"Matt Freije",4,"Vanderbilt University",".448","0.9","4.9",0.586776859504132,"15.6",0.652892561983471,-0.047
+"Channing Frye",4,"University of Arizona",".562","1.3","7.3",1.93984962406015,"13.5",0.646616541353383,0.096
+"Markelle Fultz",1,"University of Washington",".476","5.9","5.7",1.2,"23.2",1.6,-0.088
+"Dan Gadzuric",4,"University of California, Los Angeles",".549","0.6","6.6",1.50819672131148,"10.5",0.721311475409836,0.097
+"Reece Gaines",4,"University of Louisville",".452","3.8","3.4",0.224,"15.6",1.536,-0.049
+"Francisco Garcia",3,"University of Louisville",".448","3.5","3.9",1.36734693877551,"14.4",1.47959183673469,0.074
+"Rudy Gay",2,"University of Connecticut",".461","1.8","5.9",1.734375,"13.6",1.296875,0.086
+"Michael Gbinije",4,"Syracuse University",".454","2.6","3.1",0.258333333333333,"9.8",1.28333333333333,-0.136
+"Paul George",2,"California State University, Fresno",".447","2.4","6.7",0.920634920634921,"15.5",1.95238095238095,0.145
+"Daniel Gibson",2,"University of Texas at Austin",".411","3.5","3.6",0.294117647058824,"13.8",1.52941176470588,0.082
+"Taj Gibson",3,"University of Southern California",".580","1.4","8.5",2.40952380952381,"12.4",0.733333333333333,0.125
+"J.R. Giddens",4,"University of New Mexico",".464","1.9","5.7",0.770491803278688,"13.3",0.967213114754098,0.027
+"Harry Giles",1,"Duke University",".577","0.3","3.8",0.653846153846154,"3.9",0.346153846153846,NA
+"Ryan Gomes",4,"Providence College",".519","2.3","8.9",0.431034482758621,"18.4",1.56034482758621,0.069
+"Drew Gooden",3,"University of Kansas",".493","1.6","9.2",1.09183673469388,"15.6",1.06122448979592,0.105
+"Archie Goodwin",1,"University of Kentucky",".440","2.7","4.6",0.454545454545455,"14.1",1.09090909090909,0.022
+"Aaron Gordon",1,"University of Arizona",".495","2.0","8.0",1.02631578947368,"12.4",0.894736842105263,0.098
+"Ben Gordon",3,"University of Connecticut",".440","4.1","3.9",0.179245283018868,"16.9",1.17924528301887,0.078
+"Eric Gordon",1,"Indiana University",".433","2.4","3.3",0.625,"20.9",1.3125,0.077
+"Andrew Goudelock",4,"College of Charleston",".457","3.0","3.3",0.264285714285714,"18.4",0.928571428571429,0.003
+"Joey Graham",4,"Oklahoma State University",".527","1.6","5.2",0.2578125,"13.0",0.78125,0.061
+"Danny Granger",4,"University of New Mexico",".496","1.6","8.2",1.89473684210526,"16.7",1.55789473684211,0.126
+"Jerami Grant",2,"Syracuse University",".486","0.9","4.7",0.5,"7.5",0.597222222222222,0.065
+"Jerian Grant",5,"University of Notre Dame",".436","5.8","2.9",0.308333333333333,"14.5",1.45833333333333,0.075
+"Aaron Gray",4,"University of Pittsburgh",".550","1.3","7.0",1.15044247787611,"9.8",0.36283185840708,0.077
+"Danny Green",4,"University of North Carolina",".455","1.8","4.1",1.06206896551724,"9.4",1.10344827586207,0.121
+"Donte Greene",1,"Syracuse University",".418","2.0","7.2",1.62857142857143,"17.7",1.28571428571429,0.017
+"Draymond Green",4,"Michigan State University",".467","2.9","7.6",0.8,"10.5",1.24137931034483,0.149
+"Erick Green",4,"Virginia Polytechnic Institute and State University",".437","2.5","2.6",0.201550387596899,"13.5",1.2093023255814,0.011
+"Jeff Green",3,"Georgetown University",".488","3.1","6.5",1.24509803921569,"13.1",0.901960784313726,0.074
+"Orien Greene",4,"University of Louisiana at Lafayette",".409","3.1","3.4",NA,"7.0",NA,-0.022
+"Taurean Green",3,"University of Florida",".401","3.6","2.2",0.0630630630630631,"10.6",1.11711711711712,-0.066
+"Willie Green",4,"University of Detroit Mercy",".461","2.2","4.2",0.282258064516129,"14.3",0.943548387096774,0.042
+"Blake Griffin",2,"University of Oklahoma",".618","2.1","11.8",1.01470588235294,"18.8",1.05882352941176,0.178
+"Eddie Griffin",1,"Seton Hall University",".429","1.6","10.8",4.43333333333333,"17.8",0.866666666666667,0.078
+"Taylor Griffin",4,"University of Oklahoma",".468","1.0","4.8",0.75968992248062,"6.6",0.89922480620155,-0.039
+"A.J. Guyton",4,"Indiana University",".455","3.1","3.4",0.40625,"16.4",0.9921875,0.01
+"Malik Hairston",4,"University of Oregon",".504","2.1","5.1",0.606837606837607,"14.1",0.572649572649573,0.086
+"P.J. Hairston",2,"University of North Carolina",".388","1.0","3.2",0.28169014084507,"10.0",0.802816901408451,0.021
+"Marcus Haislip",3,"University of Tennessee",".530","0.5","3.4",1.30337078651685,"8.4",0.314606741573034,0.026
+"Daniel Hamilton",2,"University of Connecticut",".384","4.2","8.3",0.394366197183099,"11.7",1,0.667
+"Jordan Hamilton",2,"University of Texas at Austin",".430","1.8","5.7",0.5,"14.5",0.828571428571429,0.069
+"Justin Hamilton",3,"Louisiana State University",".535","0.5","5.2",0.96875,"7.9",0.375,0.091
+"A.J. Hammons",4,"Purdue University",".539","0.8","7.0",2.59848484848485,"12.1",0.378787878787879,-0.001
+"Olivier Hanlan",3,"Boston College",".453","3.1","3.9",0.0515463917525773,"17.8",1.07216494845361,NA
+"Tyler Hansbrough",4,"University of North Carolina",".536","1.1","8.6",0.464788732394366,"20.2",1.26760563380282,0.134
+"Travis Hansen",4,"Brigham Young University",".439","2.2","4.9",0.316239316239316,"12.7",0.538461538461538,0.019
+"Luke Harangody",4,"University of Notre Dame",".476","1.6","9.5",0.736434108527132,"19.2",0.767441860465116,0.048
+"Tim Hardaway",3,"University of Michigan",".425","2.1","4.1",0.308411214953271,"14.3",0.710280373831776,0.081
+"James Harden",2,"Arizona State University",".506","3.7","5.4",0.434782608695652,"19.0",1.91304347826087,0.217
+"DeVon Hardin",4,"University of California",".517","0.4","6.4",1.30693069306931,"7.4",0.445544554455446,NA
+"Maurice Harkless",1,"St. John's University",".452","1.5","8.6",1.40625,"15.5",1.59375,0.073
+"Justin Harper",4,"University of Richmond",".483","0.7","4.8",0.824817518248175,"10.6",0.554744525547445,-0.093
+"Josh Harrellson",3,"University of Kentucky",".549","0.4","4.7",0.893617021276596,"4.7",0.48936170212766,0.116
+"Montrezl Harrell",3,"University of Louisville",".586","0.9","6.9",1.05357142857143,"11.6",0.8125,0.167
+"Andrew Harrison",2,"University of Kentucky",".372","3.8","2.7",0.215189873417722,"10.1",0.772151898734177,0.05
+"David Harrison",3,"University of Colorado",".601","0.6","8.0",2.55681818181818,"15.0",0.613636363636364,0.057
+"Devin Harris",3,"University of Wisconsin",".447","3.1","4.1",0.416666666666667,"14.8",1.70833333333333,0.112
+"Gary Harris",2,"Michigan State University",".440","2.0","3.3",0.304347826086957,"14.9",1.56521739130435,0.09
+"Joe Harris",4,"University of Virginia",".445","1.9","3.8",0.355555555555556,"12.6",0.859259259259259,0.055
+"Tobias Harris",1,"University of Tennessee",".460","1.3","7.3",0.852941176470588,"15.3",0.705882352941177,0.115
+"Jason Hart",4,"Syracuse University",".393","5.4","3.3",0.106060606060606,"11.4",2.49242424242424,0.078
+"Josh Hart",4,"Villanova University",".511","1.8","5.6",0.294520547945205,"13.2",1.1027397260274,0.094
+"Donnell Harvey",1,"University of Florida",".507","1.0","7.0",0.837837837837838,"10.1",0.72972972972973,0.069
+"Tyler Harvey",3,"Eastern Washington University",".463","2.3","3.5",0.19047619047619,"18.6",1.02380952380952,NA
+"Trenton Hassell",3,"Austin Peay State University",".471","4.5","8.2",0.654761904761905,"19.4",1.07142857142857,0.041
+"Kirk Haston",3,"Indiana University",".473","1.2","7.8",1.08333333333333,"14.6",0.833333333333333,-0.197
+"Spencer Hawes",1,"University of Washington",".532","1.9","6.4",1.74193548387097,"14.9",0.516129032258065,0.07
+"Jarvis Hayes",3,"University of Georgia",".457","1.5","5.0",0.464285714285714,"18.0",1.32142857142857,0.049
+"Gordon Hayward",2,"Butler University",".470","1.8","7.4",0.869565217391304,"14.4",1.27536231884058,0.128
+"Lazar Hayward",4,"Marquette University",".452","0.9","6.6",0.311594202898551,"13.5",1.14492753623188,0.02
+"Brendan Haywood",4,"University of North Carolina",".637","0.8","6.0",2.15602836879433,"10.0",0.333333333333333,0.113
+"Luther Head",4,"University of Illinois at Urbana-Champaign",".473","2.5","3.1",0.1796875,"10.1",1.234375,0.09
+"Gerald Henderson",3,"Duke University",".458","1.8","4.2",0.669902912621359,"12.3",0.980582524271845,0.063
+"Xavier Henry",1,"University of Kansas",".458","1.5","4.4",0.5,"13.4",1.5,0.013
+"John Henson",3,"University of North Carolina",".497","1.0","8.1",2.54128440366972,"10.3",0.63302752293578,0.11
+"Roy Hibbert",4,"Georgetown University",".603","1.3","5.9",1.90441176470588,"10.9",0.404411764705882,0.105
+"J.J. Hickson",1,"North Carolina State University",".591","1.0","8.5",1.51612903225806,"14.8",0.709677419354839,0.088
+"Buddy Hield",4,"University of Oklahoma",".448","1.9","5.0",0.287878787878788,"17.4",1.27272727272727,0.037
+"George Hill",4,"Indiana University-Purdue University Indianapolis",".529","3.3","5.8",0.305263157894737,"17.0",1.63157894736842,0.145
+"Darrun Hilliard",4,"Villanova University",".436","1.9","3.0",0.356060606060606,"11.4",1.33333333333333,0.01
+"Jordan Hill",3,"University of Arizona",".578","0.8","7.9",1.44329896907216,"12.5",0.54639175257732,0.102
+"Solomon Hill",4,"University of Arizona",".481","2.2","5.6",0.352517985611511,"10.3",0.913669064748201,0.072
+"Kirk Hinrich",4,"University of Kansas",".493","4.7","3.8",0.404255319148936,"12.4",1.46099290780142,0.093
+"Darington Hobson",1,"University of New Mexico",".440","4.6","9.3",0.428571428571429,"15.9",1.25714285714286,-0.225
+"Julius Hodge",4,"North Carolina State University",".473","3.5","6.0",0.635658914728682,"15.8",1.24806201550388,0.003
+"Randy Holcomb",3,"San Diego State University",".473","1.2","6.2",0.709677419354839,"12.5",0.67741935483871,0.15
+"Jrue Holiday",1,"University of California, Los Angeles",".450","3.7","3.8",0.514285714285714,"8.5",1.57142857142857,0.08
+"Rondae Hollis-Jefferson",2,"University of Arizona",".496","1.5","6.3",0.947368421052632,"10.2",0.947368421052632,0.091
+"Ryan Hollins",4,"University of California, Los Angeles",".575","0.4","4.0",0.893805309734513,"5.7",0.221238938053097,0.081
+"Richaun Holmes",3,"Bowling Green State University",".554","0.7","6.9",2.56842105263158,"11.5",0.789473684210526,0.135
+"Tyler Honeycutt",2,"University of California, Los Angeles",".431","2.8","6.9",1.66101694915254,"10.3",1.15254237288136,-0.049
+"Rodney Hood",2,"Duke University",".455","2.1","4.3",0.343283582089552,"13.3",0.567164179104478,0.09
+"Al Horford",3,"University of Florida",".586","1.7","7.9",1.73394495412844,"10.3",0.862385321100917,0.159
+"Eddie House",4,"Arizona State University",".425","3.3","4.0",0.153225806451613,"16.5",2.08064516129032,0.077
+"Josh Howard",4,"Wake Forest University",".483","1.9","6.6",1.1259842519685,"13.9",1.69291338582677,0.119
+"Lester Hudson",2,"University of Tennessee at Martin",".456","4.4","7.9",0.615384615384615,"26.6",2.6,0.016
+"Josh Huestis",4,"Stanford University",".451","0.8","6.2",1.40740740740741,"7.5",0.496296296296296,0.053
+"Robbie Hummel",4,"Purdue University",".443","2.1","6.8",0.881889763779528,"14.0",1.03149606299213,0.066
+"Kris Humphries",1,"University of Minnesota",".444","0.7","10.1",1.13793103448276,"21.7",0.931034482758621,0.102
+"Ryan Humphrey",4,"University of Notre Dame",".495","1.3","8.4",2.31707317073171,"13.3",0.853658536585366,-0.027
+"Brandon Hunter",4,"Ohio University",".510","2.1","9.3",0.73109243697479,"16.9",0.798319327731092,0.055
+"R.J. Hunter",3,"Georgia State University",".423","2.4","4.8",0.929292929292929,"18.4",1.92929292929293,0.043
+"Steven Hunter",2,"DePaul University",".586","0.4","4.7",2.03174603174603,"9.9",0.174603174603175,0.085
+"Andre Iguodala",2,"University of Arizona",".424","3.4","6.6",0.467741935483871,"9.6",1.53225806451613,0.125
+"Brandon Ingram",1,"Duke University",".442","2.0","6.8",1.36111111111111,"17.3",1.13888888888889,0.015
+"Kyrie Irving",1,"Duke University",".529","4.3","3.4",0.545454545454545,"17.5",1.45454545454545,0.154
+"Jonathan Isaac",1,"Florida State University",".508","1.2","7.8",1.53125,"12.0",1.15625,0.017
+"Colton Iverson",4,"Colorado State University",".546","0.9","5.7",0.887218045112782,"7.6",0.443609022556391,NA
+"Royal Ivey",4,"University of Texas at Austin",".455","2.3","3.1",0.18796992481203,"7.8",0.932330827067669,0.035
+"Wesley Iwundu",4,"Kansas State University",".463","2.8","4.7",0.393939393939394,"9.5",0.916666666666667,0.048
+"Jarrett Jack",3,"Georgia Institute of Technology",".478","5.4","4.5",0.108910891089109,"12.5",1.81188118811881,0.075
+"Darnell Jackson",4,"University of Kansas",".580","0.5","4.9",0.368,"6.8",0.512,0.059
+"Demetrius Jackson",3,"University of Notre Dame",".473","3.3","3.1",0.223300970873786,"12.2",1.10679611650485,-0.048
+"Frank Jackson",1,"Duke University",".473","1.7","2.5",0.0555555555555556,"10.9",0.555555555555556,NA
+"Josh Jackson",1,"University of Kansas",".513","3.0","7.4",1.05714285714286,"16.3",1.68571428571429,-0.044
+"Justin Jackson",3,"University of North Carolina",".460","2.6","4.1",0.38135593220339,"14.0",0.644067796610169,-0.023
+"Luke Jackson",4,"University of Oregon",".461","3.4","5.9",0.293650793650794,"15.6",1.26984126984127,0.01
+"Pierre Jackson",2,"Baylor University",".441","6.5","3.3",0.0405405405405405,"16.7",1.64864864864865,0.021
+"Reggie Jackson",3,"Boston College",".465","3.5","4.4",0.464646464646465,"12.7",0.838383838383838,0.103
+"Casey Jacobsen",3,"Stanford University",".470","2.7","3.8",0.0736842105263158,"18.1",0.526315789473684,0.056
+"Bernard James",2,"Florida State University",".627","0.3","7.0",2.3768115942029,"9.7",0.797101449275362,0.117
+"Damion James",4,"University of Texas at Austin",".479","1.1","9.3",1.14788732394366,"13.5",0.964788732394366,-0.001
+"Robertas Javtokas",1,"",".375","0.0","1.3",0.5,"0.8",0.125,NA
+"Nathan Jawai",1,"",".533","0.9","5.8",NA,"11.4",NA,0.02
+"Chris Jefferies",3,"California State University, Fresno",".436","1.8","4.8",1.15909090909091,"12.9",1.11363636363636,-0.03
+"Cory Jefferson",4,"Baylor University",".543","0.4","5.6",1.27692307692308,"8.9",0.323076923076923,0.071
+"Richard Jefferson",3,"University of Arizona",".490","2.8","5.0",0.75,"11.2",0.607142857142857,0.116
+"Jared Jeffries",2,"Indiana University",".450","2.2","7.2",1.25714285714286,"14.4",1.21428571428571,0.046
+"Charles Jenkins",4,"Hofstra University",".456","3.8","4.3",0.5546875,"19.6",1.6640625,0.017
+"John Jenkins",3,"Vanderbilt University",".468","1.1","2.7",0.275510204081633,"16.9",0.683673469387755,0.071
+"Grant Jerrett",1,"University of Arizona",".409","0.5","3.6",0.970588235294118,"5.2",0.470588235294118,-0.128
+"Alexander Johnson",3,"Florida State University",".520","0.7","5.2",0.717391304347826,"9.8",0.880434782608696,0.056
+"Armon Johnson",3,"University of Nevada, Reno",".467","4.4","3.7",0.247524752475248,"14.3",0.821782178217822,-0.015
+"Brice Johnson",4,"University of North Carolina",".577","0.9","7.0",1.10135135135135,"11.9",0.75,0.112
+"Darius Johnson-Odom",3,"Marquette University",".444","2.5","3.1",0.161904761904762,"15.7",0.885714285714286,-0.597
+"Dakari Johnson",2,"University of Kentucky",".537","0.5","4.3",0.756410256410256,"5.8",0.294871794871795,0.17
+"DerMarr Johnson",1,"University of Cincinnati",".478","1.4","3.8",0.9375,"12.6",0.96875,0.052
+"James Johnson",2,"Wake Forest University",".515","1.6","8.3",1.44262295081967,"14.8",1.39344262295082,0.089
+"JaJuan Johnson",4,"Purdue University",".501","0.7","6.1",1.87857142857143,"13.7",0.664285714285714,0.032
+"Joe Johnson",2,"University of Arkansas",".466","2.4","6.1",0.452830188679245,"15.0",1.66037735849057,0.09
+"Ken Johnson",4,"Ohio State University",".540","0.5","5.8",3.49606299212598,"8.3",0.291338582677165,-0.002
+"Nick Johnson",3,"University of Arizona",".421","2.8","3.7",0.592592592592593,"12.3",1.26851851851852,-0.02
+"Orlando Johnson",4,"University of California, Santa Barbara",".457","2.6","5.6",0.548387096774194,"17.8",0.903225806451613,0.059
+"Stanley Johnson",1,"University of Arizona",".446","1.7","6.5",0.394736842105263,"13.8",1.5,0.023
+"Wesley Johnson",3,"Syracuse University",".454","1.6","7.0",1.16129032258065,"13.9",1.13978494623656,0.04
+"Alvin Jones",4,"Georgia Institute of Technology",".489","1.4","8.7",3.42741935483871,"10.6",0.709677419354839,0.034
+"Bobby Jones",4,"University of Washington",".501","1.2","4.9",0.472,"9.8",1.072,0.06
+"Dahntay Jones",4,"Duke University",".452","1.4","4.6",0.618320610687023,"13.8",1.01526717557252,0.048
+"Damian Jones",3,"Vanderbilt University",".566","0.7","6.4",1.68686868686869,"13.3",0.373737373737374,0.025
+"Dominique Jones",3,"University of South Florida",".442","3.5","5.4",0.410526315789474,"18.9",1.51578947368421,0.017
+"Fred Jones",4,"University of Oregon",".481","2.9","5.0",0.592,"13.2",1.184,0.077
+"James Jones",4,"University of Miami",".426","1.2","5.0",1.57377049180328,"11.1",1.12295081967213,0.109
+"Perry Jones",2,"Baylor University",".522","1.2","7.4",0.746031746031746,"13.7",0.698412698412698,0.048
+"Solomon Jones",2,"University of South Florida",".505","1.0","8.0",2.59322033898305,"9.8",0.644067796610169,0.078
+"Terrence Jones",2,"University of Kentucky",".467","1.5","8.0",1.84210526315789,"14.0",1.21052631578947,0.128
+"Tyus Jones",1,"Duke University",".417","5.6","3.5",0.0769230769230769,"11.8",1.51282051282051,0.087
+"DeAndre Jordan",1,"Texas A&M University",".617","0.4","6.0",1.25714285714286,"7.9",0.2,0.174
+"Jerome Jordan",4,"University of Tulsa",".567","0.8","7.4",2.50375939849624,"11.3",0.360902255639098,0.168
+"Cory Joseph",1,"University of Texas at Austin",".422","3.0","3.6",0.305555555555556,"10.4",1.02777777777778,0.1
+"Kris Joseph",4,"Syracuse University",".449","1.5","4.5",0.478571428571429,"10.5",1.27857142857143,-0.127
+"Chris Kaman",3,"Central Michigan University",".608","0.8","8.5",2.19277108433735,"15.1",0.506024096385542,0.06
+"Frank Kaminsky",4,"University of Wisconsin",".522","1.3","4.6",1.0625,"10.1",0.534722222222222,0.076
+"Jason Kapono",4,"University of California, Los Angeles",".469","2.1","5.1",0.062992125984252,"16.5",0.850393700787402,0.055
+"Sasha Kaun",4,"University of Kansas",".568","0.3","3.9",1.11111111111111,"6.1",0.37037037037037,0.096
+"Arsalan Kazemi",4,"University of Oregon",".559","1.5","10.1",0.823076923076923,"11.7",1.73076923076923,NA
+"Ryan Kelly",4,"Duke University",".460","0.9","3.7",1.05555555555556,"7.5",0.579365079365079,0.046
+"Luke Kennard",2,"Duke University",".461","2.0","4.3",0.26027397260274,"15.7",0.89041095890411,0.069
+"Michael Kidd-Gilchrist",1,"University of Kentucky",".491","1.9","7.4",0.925,"11.9",0.975,0.098
+"Linas Kleiza",2,"University of Missouri",".413","1.3","7.9",0.285714285714286,"14.4",0.551020408163265,0.08
+"Brandon Knight",1,"University of Kentucky",".423","4.2","4.0",0.210526315789474,"17.3",0.657894736842105,0.047
+"Kyle Korver",4,"Creighton University",".472","2.3","5.2",0.453125,"14.1",1.34375,0.114
+"Kosta Koufos",1,"Ohio State University",".508","0.5","6.7",1.81081081081081,"14.4",0.432432432432432,0.119
+"Skal Labissiere",1,"University of Kentucky",".516","0.3","3.1",1.63888888888889,"6.6",0.25,0.072
+"Cady Lalanne",4,"University of Massachusetts Amherst",".553","0.2","7.9",1.77477477477477,"10.0",0.441441441441441,NA
+"Doron Lamb",2,"University of Kentucky",".485","1.6","2.3",0.102564102564103,"13.1",0.525641025641026,0.005
+"Jeremy Lamb",2,"University of Connecticut",".482","1.7","4.7",0.613333333333333,"14.1",1.02666666666667,0.114
+"Sean Lampley",4,"University of California",".494","2.4","7.2",0.560975609756098,"14.4",0.699186991869919,0.096
+"Carl Landry",3,"Purdue University",".602","1.2","7.1",0.8125,"18.4",1.015625,0.149
+"Dan Langhi",4,"Vanderbilt University",".466","0.7","4.6",0.213114754098361,"12.3",0.475409836065574,0.012
+"Shane Larkin",2,"University of Miami",".438","3.6","3.2",0.0882352941176471,"11.2",1.77941176470588,0.041
+"Stephane Lasme",4,"University of Massachusetts Amherst",".595","0.9","6.4",3.38135593220339,"8.6",0.745762711864407,0.041
+"Zach LaVine",1,"University of California, Los Angeles",".441","1.8","2.5",0.162162162162162,"9.4",0.891891891891892,0.04
+"Acie Law",4,"Texas A&M University",".466","4.5","3.1",0.0163934426229508,"13.7",1.27868852459016,0.032
+"Gani Lawal",3,"Georgia Institute of Technology",".548","0.4","7.2",1.28282828282828,"11.8",0.595959595959596,-0.009
+"Ty Lawson",3,"University of North Carolina",".517","5.8","2.9",0.0952380952380952,"13.1",1.75238095238095,0.126
+"Jake Layman",4,"University of Maryland",".445","1.1","4.8",0.801418439716312,"10.2",0.872340425531915,-0.044
+"T.J. Leaf",1,"University of California, Los Angeles",".617","2.4","8.2",1.11428571428571,"16.3",0.628571428571429,0.072
+"Courtney Lee",4,"Western Kentucky University",".464","2.2","5.2",0.614173228346457,"17.6",1.90551181102362,0.089
+"David Lee",4,"University of Florida",".581","2.0","6.8",0.858267716535433,"11.3",0.889763779527559,0.15
+"Malcolm Lee",3,"University of California, Los Angeles",".441","2.0","3.0",0.212765957446809,"9.7",0.765957446808511,0.04
+"Alex Len",2,"University of Maryland",".538","0.8","7.0",2.08333333333333,"9.7",0.2,0.084
+"Kawhi Leonard",2,"San Diego State University",".449","2.2","10.2",0.642857142857143,"14.1",1.4,0.219
+"Meyers Leonard",2,"University of Illinois at Urbana-Champaign",".567","0.7","4.7",1.12307692307692,"7.7",0.307692307692308,0.095
+"Travis Leslie",3,"University of Georgia",".482","2.1","6.1",0.7,"12.2",1.12222222222222,0.06
+"Jon Leuer",4,"University of Wisconsin",".482","1.1","4.5",0.691056910569106,"11.2",0.414634146341463,0.107
+"Maarty Leunen",4,"University of Oregon",".503","1.8","7.1",0.393700787401575,"9.9",0.952755905511811,NA
+"Caris LeVert",4,"University of Michigan",".434","2.7","3.5",0.213592233009709,"10.4",0.941747572815534,0.06
+"DeAndre Liggins",3,"University of Kentucky",".407","2.1","3.0",0.5,"5.8",0.9,0.037
+"Damian Lillard",4,"Weber State University",".446","3.5","4.3",0.182692307692308,"18.6",1.24038461538462,0.154
+"Kevon Looney",1,"University of California, Los Angeles",".470","1.4","9.2",0.888888888888889,"11.6",1.27777777777778,0.148
+"Brook Lopez",2,"Stanford University",".480","1.1","7.1",1.90566037735849,"16.0",0.509433962264151,0.129
+"Robin Lopez",2,"Stanford University",".511","0.8","5.6",2.32835820895522,"9.0",0.343283582089552,0.123
+"Erazem Lorbek",1,"",".534","0.6","3.3",0.542857142857143,"6.4",0.628571428571429,NA
+"Kevin Love",1,"University of California, Los Angeles",".559","1.9","10.6",1.43589743589744,"17.5",0.692307692307692,0.182
+"Kyle Lowry",2,"Villanova University",".449","3.0","3.8",0.228070175438596,"9.5",1.89473684210526,0.153
+"Tyler Lydon",2,"Syracuse University",".476","1.6","7.4",1.63380281690141,"11.6",1.08450704225352,-0.004
+"Trey Lyles",1,"University of Kentucky",".488","1.1","5.2",0.444444444444444,"8.7",0.527777777777778,0.08
+"Vernon Macklin",4,"University of Florida",".610","0.7","3.7",0.610294117647059,"7.3",0.308823529411765,0.161
+"Shelvin Mack",3,"Butler University",".419","3.3","4.2",0.0833333333333333,"14.1",1.09259259259259,0.061
+"Tito Maddox",1,"California State University, Fresno",".391","8.0","5.8",0.2,"13.5",1.64,-0.011
+"Mark Madsen",4,"Stanford University",".587","0.6","7.9",0.592592592592593,"10.9",0.435185185185185,0.074
+"Jamaal Magloire",4,"University of Kentucky",".503","0.4","5.4",1.84827586206897,"7.3",0.468965517241379,0.091
+"Ater Majok",1,"",".424","0.2","3.0",1.61538461538462,"2.3",0.153846153846154,NA
+"Roy Devyn Marble",4,"University of Iowa",".415","2.9","3.4",0.242647058823529,"12.5",1.29411764705882,-0.028
+"Lauri Markkanen",1,"University of Arizona",".492","0.9","7.2",0.513513513513513,"15.6",0.405405405405405,0.088
+"Kendall Marshall",2,"University of North Carolina",".446","8.0","2.3",0.123287671232877,"7.2",1.13698630136986,0.015
+"Jarell Martin",2,"Louisiana State University",".494","1.4","6.9",0.692307692307692,"13.7",1,0.065
+"Kenyon Martin",4,"University of Cincinnati",".586","1.2","7.5",2.51724137931034,"11.0",1.06896551724138,0.1
+"Kevin Martin",3,"Western Carolina University",".462","1.7","4.5",0.379746835443038,"23.3",1.69620253164557,0.137
+"Desmond Mason",4,"Oklahoma State University",".486","1.1","6.2",0.713178294573643,"13.2",1.22480620155039,0.056
+"Frank Mason",4,"University of Kansas",".454","4.0","3.4",0.0689655172413793,"13.0",1.13793103448276,0.008
+"Roger Mason",3,"University of Virginia",".436","2.6","3.0",0.370786516853933,"13.8",1.01123595505618,0.068
+"Jason Maxiell",4,"University of Cincinnati",".507","0.7","7.0",1.94573643410853,"12.1",0.705426356589147,0.086
+"Eric Maynor",4,"Virginia Commonwealth University",".449","5.2","3.4",0.153846153846154,"15.0",1.29230769230769,0.041
+"O.J. Mayo",1,"University of Southern California",".442","3.3","4.5",0.393939393939394,"20.7",1.54545454545455,0.062
+"Sean May",3,"University of North Carolina",".513","1.5","10.0",1.22077922077922,"15.8",1.2987012987013,0.068
+"Luc Mbah a Moute",3,"University of California, Los Angeles",".503","1.6","7.2",0.616822429906542,"8.7",1.2803738317757,0.076
+"Ray McCallum",3,"University of Detroit Mercy",".465","4.4","4.8",0.313725490196078,"15.9",1.7156862745098,0.035
+"Rashad McCants",3,"University of North Carolina",".486","2.1","4.1",0.622448979591837,"17.6",1.47959183673469,0.035
+"Patrick McCaw",2,"University of Nevada, Las Vegas",".439","3.3","4.2",0.353846153846154,"12.2",1.98461538461538,0.073
+"Dan McClintock",4,"Northern Arizona University",".632","0.7","4.2",1.70434782608696,"11.9",0.347826086956522,0.007
+"C.J. McCollum",4,"Lehigh University",".439","2.7","6.3",0.459459459459459,"21.3",2.05405405405405,0.109
+"Chris McCullough",1,"Syracuse University",".478","1.1","6.9",2.0625,"9.3",1.6875,0.055
+"K.J. McDaniels",3,"Clemson University",".450","0.9","4.8",1.8936170212766,"11.0",0.882978723404255,0.03
+"Doug McDermott",4,"Creighton University",".550","1.3","7.5",0.096551724137931,"21.7",0.23448275862069,0.072
+"Mitch McGary",2,"University of Michigan",".588","0.8","6.6",0.723404255319149,"7.8",1.21276595744681,0.108
+"JaVale McGee",2,"University of Nevada, Reno",".542","0.3","4.8",1.84848484848485,"8.7",0.484848484848485,0.13
+"Dominic McGuire",3,"California State University, Fresno",".462","2.0","6.3",1.94186046511628,"8.7",0.63953488372093,0.037
+"Ben McLemore",1,"University of Kansas",".495","2.0","5.2",0.675675675675676,"15.9",1,0.025
+"Jordan McRae",4,"University of Tennessee",".417","1.8","3.3",0.850877192982456,"13.3",0.640350877192982,0.043
+"Josh McRoberts",2,"Duke University",".540","2.4","6.5",1.85507246376812,"10.8",1.15942028985507,0.107
+"Jodie Meeks",3,"University of Kentucky",".436","1.6","3.0",0.0987654320987654,"15.4",1.06172839506173,0.094
+"Fab Melo",2,"Syracuse University",".576","0.5","3.8",1.79365079365079,"4.9",0.396825396825397,0.021
+"Jordan Mickey",2,"Louisiana State University",".518","1.2","8.8",3.35384615384615,"14.0",0.769230769230769,0.049
+"Khris Middleton",3,"Texas A&M University",".431","2.0","4.6",0.195402298850575,"11.3",1,0.095
+"Chris Mihm",3,"University of Texas at Austin",".497","0.6","9.8",2.75,"14.6",0.375,0.073
+"Darius Miller",4,"University of Kentucky",".448","1.8","3.2",0.657894736842105,"8.2",0.75,0.057
+"Mike Miller",2,"University of Florida",".483","2.3","6.0",0.338461538461538,"13.3",1.24615384615385,0.105
+"Quincy Miller",1,"Baylor University",".447","1.4","4.9",0.648648648648649,"10.6",0.675675675675676,-0.003
+"Paul Millsap",3,"Louisiana Tech University",".577","0.9","12.7",1.98913043478261,"18.6",1.31521739130435,0.154
+"Patrick Mills",2,"Saint Mary's College of California",".415","3.7","2.2",0.155172413793103,"16.4",1.96551724137931,0.126
+"Donovan Mitchell",2,"University of Louisville",".418","2.2","4.1",0.307692307692308,"11.7",1.46153846153846,0.086
+"Tony Mitchell",2,"University of North Texas",".490","1.1","9.3",2.85454545454545,"13.7",0.927272727272727,0.151
+"Jerome Moiso",2,"University of California, Los Angeles",".495","1.1","6.8",1.30645161290323,"12.0",0.983870967741935,0.074
+"Malik Monk",1,"University of Kentucky",".450","2.3","2.5",0.5,"19.8",0.947368421052632,0.001
+"Greg Monroe",2,"Georgetown University",".543","3.2","8.2",1.49230769230769,"14.5",1.52307692307692,0.136
+"E'Twaun Moore",4,"Purdue University",".440","2.9","4.4",0.421428571428571,"15.3",1.17142857142857,0.056
+"Adam Morrison",3,"Gonzaga University",".503","2.0","5.1",0.368421052631579,"19.7",0.694736842105263,-0.021
+"Darius Morris",2,"University of Michigan",".469","4.8","2.9",0.0895522388059701,"9.9",0.835820895522388,-0.01
+"Markieff Morris",3,"University of Kansas",".553","1.2","6.1",0.944954128440367,"8.5",0.55045871559633,0.076
+"Marcus Morris",3,"University of Kansas",".555","1.3","6.2",0.440366972477064,"12.6",0.935779816513762,0.085
+"Monte Morris",4,"Iowa State University",".476","5.5","3.7",0.292857142857143,"12.2",1.60714285714286,-0.194
+"Terence Morris",4,"University of Maryland",".495","1.7","6.8",1.88235294117647,"12.7",1.19117647058824,0.025
+"Hanno Mottola",4,"University of Utah",".500","1.2","4.6",0.416666666666667,"12.4",0.308333333333333,0.019
+"Arnett Moultrie",3,"Mississippi State University",".511","1.0","8.4",0.85,"11.4",1.01,0.113
+"Shabazz Muhammad",1,"University of California, Los Angeles",".443","0.8","5.2",0.125,"17.9",0.71875,0.081
+"Byron Mullens",1,"Ohio State University",".638","0.3","4.7",1.12121212121212,"8.8",0.484848484848485,0.008
+"Erik Murphy",4,"University of Florida",".514","0.7","3.7",0.625,"7.7",0.426470588235294,-0.055
+"Kevin Murphy",4,"Tennessee Technological University",".443","1.9","4.2",0.1875,"15.8",0.796875,-0.272
+"Troy Murphy",3,"University of Notre Dame",".496","1.7","9.8",1.34042553191489,"21.4",1.20212765957447,0.121
+"Dejounte Murray",1,"University of Washington",".416","4.4","6.0",0.294117647058824,"16.1",1.82352941176471,0.042
+"Jamal Murray",1,"University of Kentucky",".454","2.2","5.2",0.305555555555556,"20.0",0.972222222222222,0.06
+"Ronald Murray",3,"Shaw University",".484","4.1","5.6",0.411111111111111,"21.9",1.1,0.037
+"Mike Muscala",4,"Bucknell University",".501","1.6","8.2",2.03759398496241,"15.3",0.421052631578947,0.132
+"Abdel Nader",4,"Iowa State University",".391","1.1","4.3",0.606837606837607,"10.3",0.811965811965812,0.002
+"Eduardo Najera",4,"University of Oklahoma",".430","1.7","7.2",0.706349206349206,"13.1",1.53174603174603,0.106
+"Larry Nance Jr.",4,"University of Wyoming",".521","1.4","6.6",1.09756097560976,"11.3",1.14634146341463,0.118
+"Shabazz Napier",4,"University of Connecticut",".411","4.5","4.0",0.20979020979021,"13.7",1.75524475524476,0.063
+"Hamady N'Diaye",4,"Rutgers University",".539","0.4","5.5",2.88709677419355,"5.8",0.379032258064516,0.013
+"Mamadou N'Diaye",4,"Auburn University",".506","0.6","6.2",1.6875,"6.8",0.5859375,0.101
+"Jameer Nelson",4,"Saint Joseph's University",".454","5.7","4.6",0.08,"16.8",2,0.095
+"Georges Niang",4,"Iowa State University",".500","3.1","5.2",0.485507246376812,"16.1",0.666666666666667,-0.168
+"Andrew Nicholson",4,"St. Bonaventure University",".575","0.7","7.2",1.98373983739837,"17.1",0.495934959349593,0.045
+"Demetris Nichols",4,"Syracuse University",".423","1.1","4.1",0.764227642276423,"10.9",0.975609756097561,-0.203
+"Joakim Noah",3,"University of Florida",".616","1.7","6.4",1.72222222222222,"10.5",0.87962962962963,0.16
+"David Noel",4,"University of North Carolina",".532","1.9","4.3",0.47244094488189,"6.9",1.07874015748032,0.024
+"Nerlens Noel",1,"University of Kentucky",".590","1.6","9.5",4.41666666666667,"10.5",2.08333333333333,0.1
+"Steve Novak",4,"Marquette University",".465","1.0","4.2",0.0714285714285714,"12.4",0.507936507936508,0.123
+"Johnny O'Bryant III",3,"Louisiana State University",".467","1.3","7.7",0.791208791208791,"12.7",0.516483516483517,0.007
+"Patrick O'Bryant",2,"Bradley University",".554","0.7","7.8",2.82692307692308,"11.6",0.884615384615385,0.046
+"Greg Oden",1,"Ohio State University",".616","0.7","9.6",3.28125,"15.7",0.5625,0.174
+"Emeka Okafor",3,"University of Connecticut",".590","0.8","10.6",4.28155339805825,"13.8",0.883495145631068,0.114
+"Jahlil Okafor",1,"Duke University",".664","1.3","8.5",1.42105263157895,"17.3",0.763157894736842,0.041
+"Victor Oladipo",3,"Indiana University",".538","1.7","5.2",0.538461538461538,"10.7",1.54807692307692,0.081
+"Kelly Olynyk",3,"Gonzaga University",".594","1.1","4.6",0.455445544554455,"8.9",0.514851485148515,0.122
+"Chinanu Onuaku",2,"University of Louisville",".619","1.1","6.4",1.57575757575758,"6.2",0.757575757575758,0.123
+"Kyle O'Quinn",4,"Norfolk State University",".553","0.9","8.5",2.1937984496124,"12.5",0.534883720930233,0.123
+"Alex Oriakhi",4,"University of Missouri",".530","0.3","7.2",1.53846153846154,"8.2",0.370629370629371,NA
+"Daniel Orton",1,"University of Kentucky",".527","0.4","3.3",1.39473684210526,"3.4",0.552631578947368,0.093
+"Kelly Oubre",1,"University of Kansas",".444","0.8","5.0",0.361111111111111,"9.3",1.13888888888889,0.073
+"Chris Owens",4,"University of Texas at Austin",".453","0.8","6.4",1.78301886792453,"10.8",0.952830188679245,-0.032
+"Marcus Paige",4,"University of North Carolina",".407","4.3","2.8",0.24822695035461,"13.3",1.43971631205674,-0.602
+"Jabari Parker",1,"Duke University",".473","1.2","8.7",1.22857142857143,"19.1",1.05714285714286,0.088
+"Chandler Parsons",4,"University of Florida",".477","2.4","6.0",0.295774647887324,"10.2",0.908450704225352,0.111
+"Lamar Patterson",5,"University of Pittsburgh",".435","2.9","3.9",0.295302013422819,"9.5",0.979865771812081,0.006
+"Patrick Patterson",3,"University of Kentucky",".585","1.5","8.2",1.56701030927835,"16.1",0.711340206185567,0.104
+"Justin Patton",1,"Creighton University",".676","1.2","6.2",1.42857142857143,"12.9",0.857142857142857,NA
+"Chris Paul",2,"Wake Forest University",".472","6.3","3.9",0.206349206349206,"15.0",2.53968253968254,0.251
+"Adreian Payne",4,"Michigan State University",".526","0.6","5.3",1.02173913043478,"8.9",0.550724637681159,-0.019
+"Cameron Payne",2,"Murray State University",".432","5.7","3.7",0.536231884057971,"18.5",1.81159420289855,0.042
+"Elfrid Payton",3,"University of Louisiana at Lafayette",".485","4.9","5.1",0.51,"14.3",1.97,0.065
+"Jeff Pendergraph",4,"Arizona State University",".580","0.8","7.5",1.03968253968254,"12.6",0.492063492063492,0.131
+"Alec Peters",4,"Valparaiso University",".487","1.5","7.4",0.283582089552239,"17.5",0.761194029850746,0.029
+"Morris Peterson",5,"Michigan State University",".484","0.9","4.7",0.306569343065693,"11.6",0.868613138686131,0.089
+"Dexter Pittman",4,"University of Texas at Austin",".623","0.3","3.9",0.925373134328358,"6.6",0.246268656716418,0.068
+"Mason Plumlee",4,"Duke University",".574","1.5","7.7",1.4113475177305,"9.8",0.815602836879433,0.138
+"Miles Plumlee",4,"Duke University",".557","0.3","4.8",0.644444444444444,"4.8",0.459259259259259,0.093
+"Jakob Poeltl",2,"University of Utah",".658","1.3","8.0",1.7,"13.3",0.471428571428571,0.159
+"Sir'Dominic Pointer",4,"St. John's University",".477","2.3","5.2",1.33076923076923,"8.3",1.53846153846154,NA
+"Quincy Pondexter",4,"University of Washington",".503","1.7","5.6",0.330882352941176,"13.1",0.786764705882353,0.082
+"Chris Porter",2,"Auburn University",".467","1.1","8.0",0.392857142857143,"15.3",2.07142857142857,0.008
+"Otto Porter",2,"Georgetown University",".498","2.1","7.1",0.859375,"12.8",1.46875,0.132
+"Bobby Portis",2,"University of Arkansas",".526","1.3","7.9",1.48571428571429,"15.0",1.05714285714286,0.1
+"Lavor Postell",4,"St. John's University",".430","1.6","5.6",0.449612403100775,"11.1",1,-0.025
+"Dwight Powell",4,"Stanford University",".464","1.8","6.3",0.867647058823529,"10.8",0.919117647058823,0.162
+"Leon Powe",2,"University of California",".492","1.1","9.8",0.592592592592593,"17.8",0.796296296296296,0.174
+"Norman Powell",4,"University of California, Los Angeles",".461","1.5","3.0",0.404255319148936,"9.8",1.12056737588652,0.083
+"A.J. Price",3,"University of Connecticut",".413","4.7","3.4",0.0505050505050505,"13.0",1.05050505050505,0.058
+"Tayshaun Prince",4,"University of Kentucky",".457","1.9","5.6",1.05185185185185,"13.1",0.814814814814815,0.096
+"Taurean Prince",4,"Baylor University",".460","1.1","4.2",0.488372093023256,"10.2",0.937984496124031,0.04
+"Gabe Pruitt",3,"University of Southern California",".438","3.5","3.1",0.2,"13.8",1.975,0.043
+"Joel Przybilla",2,"University of Minnesota",".591","1.9","6.9",1.6530612244898,"9.9",0.346938775510204,0.094
+"Ivan Rabb",2,"University of California",".544","1.2","9.4",1.12307692307692,"13.2",0.6,0.14
+"Julius Randle",1,"University of Kentucky",".501","1.4","10.4",0.775,"15.0",0.5,0.066
+"Anthony Randolph",1,"Louisiana State University",".464","1.2","8.5",2.25806451612903,"15.6",1.12903225806452,0.072
+"Zach Randolph",1,"Michigan State University",".587","1.0","6.7",0.666666666666667,"10.8",0.727272727272727,0.114
+"Andy Rautins",4,"Syracuse University",".396","2.7","2.6",0.173228346456693,"8.8",1.35433070866142,-0.314
+"Michael Redd",3,"Ohio State University",".448","2.5","6.2",0.114583333333333,"19.6",1.55208333333333,0.134
+"J.J. Redick",4,"Duke University",".433","2.2","2.7",0.0647482014388489,"19.9",1.09352517985612,0.13
+"Davon Reed",4,"University of Miami",".430","1.6","3.6",0.366412213740458,"10.3",0.862595419847328,-0.393
+"Justin Reed",4,"University of Mississippi",".476","1.1","6.3",0.729508196721312,"14.6",1.00819672131148,0.016
+"Ryan Reid",4,"Florida State University",".495","0.7","3.9",0.563492063492063,"5.0",0.53968253968254,0.142
+"Glen Rice",3,"Georgia Institute of Technology",".435","2.1","4.8",0.540229885057471,"9.9",1.27586206896552,-0.065
+"Chris Richard",4,"University of Florida",".665","0.3","3.2",0.418439716312057,"4.9",0.340425531914894,0.045
+"Jason Richardson",2,"Michigan State University",".503","1.4","5.0",0.485714285714286,"9.6",0.828571428571429,0.097
+"Josh Richardson",4,"University of Tennessee",".456","1.8","3.2",0.647058823529412,"9.2",1.08088235294118,0.081
+"Malachi Richardson",1,"Syracuse University",".369","2.1","4.3",0.27027027027027,"13.4",1.13513513513514,0.001
+"Quentin Richardson",2,"DePaul University",".454","1.6","10.2",0.265625,"17.9",0.921875,0.076
+"Luke Ridnour",3,"University of Oregon",".429","5.2","3.0",0.104166666666667,"14.6",1.5625,0.08
+"Austin Rivers",1,"Duke University",".433","2.1","3.4",0.0294117647058824,"15.5",0.970588235294118,0.037
+"Andre Roberson",3,"University of Colorado",".516","1.1","10.0",1.42857142857143,"9.6",1.56190476190476,0.093
+"Lawrence Roberts",4,"Mississippi State University",".458","1.5","9.9",0.949152542372881,"16.5",1.60169491525424,0.106
+"Bernard Robinson",4,"University of Michigan",".440","3.0","5.3",0.391666666666667,"12.5",1.40833333333333,0.049
+"Glenn Robinson III",2,"University of Michigan",".525","1.1","4.9",0.276315789473684,"12.0",0.973684210526316,0.075
+"Nate Robinson",3,"University of Washington",".457","3.2","3.9",0.101123595505618,"14.4",1.57303370786517,0.096
+"Thomas Robinson",3,"University of Kansas",".525","1.0","7.3",0.704761904761905,"9.8",0.6,0.053
+"Rajon Rondo",2,"University of Kentucky",".493","4.2","4.5",0.191176470588235,"9.6",2.29411764705882,0.111
+"Derrick Rose",1,"University of Memphis",".477","4.7","4.5",0.375,"14.9",1.2,0.1
+"Terrence Ross",2,"University of Washington",".453","1.2","4.7",0.652173913043478,"12.3",0.91304347826087,0.074
+"Brandon Roy",4,"University of Washington",".512","3.0","5.0",0.475728155339806,"14.3",1,0.155
+"Terry Rozier",2,"University of Louisville",".408","2.4","4.3",0.10958904109589,"12.0",1.50684931506849,0.07
+"Brandon Rush",3,"University of Kansas",".449","2.0","5.5",0.81651376146789,"13.6",0.697247706422018,0.051
+"Kareem Rush",3,"University of Missouri",".445","2.1","5.4",0.55952380952381,"18.9",1.21428571428571,0.013
+"D'Angelo Russell",1,"Ohio State University",".449","5.0","5.7",0.314285714285714,"19.3",1.57142857142857,0.018
+"Domantas Sabonis",2,"Gonzaga University",".632","1.3","9.4",0.581081081081081,"13.5",0.527027027027027,0.066
+"Robert Sacre",5,"Gonzaga University",".504","0.7","5.0",1.36764705882353,"9.3",0.514705882352941,0.042
+"John Salmons",4,"University of Miami",".466","3.5","5.5",0.653225806451613,"10.4",1.54838709677419,0.069
+"Jamal Sampson",1,"University of California",".426","1.2","6.5",1.6875,"6.4",0.46875,0.106
+"Larry Sanders",3,"Virginia Commonwealth University",".520","0.5","7.7",2.74257425742574,"10.3",0.584158415841584,0.107
+"Jeryl Sasser",4,"Southern Methodist University",".394","3.2","8.3",0.572649572649573,"17.0",1.68376068376068,0.032
+"Kenny Satterfield",2,"University of Cincinnati",".403","5.2","4.1",0.147058823529412,"11.9",1.44117647058824,-0.051
+"Brian Scalabrine",3,"University of Southern California",".513","2.7","6.1",0.880434782608696,"15.7",0.967391304347826,0.054
+"Mike Scott",5,"University of Virginia",".521","1.0","7.3",0.392307692307692,"11.8",0.653846153846154,0.106
+"Josh Selby",1,"University of Kansas",".373","2.2","2.2",0.0384615384615385,"7.9",0.807692307692308,-0.113
+"Ramon Sessions",3,"University of Nevada, Reno",".417","4.9","4.2",0.144329896907216,"8.8",1.16494845360825,0.086
+"Walter Sharpe",3,"University of Alabama at Birmingham",".534","0.9","3.8",0.925,"7.0",0.55,-0.131
+"Iman Shumpert",3,"Georgia Institute of Technology",".396","4.2","4.5",0.184782608695652,"12.7",2.25,0.057
+"Pascal Siakam",2,"New Mexico State University",".551","1.5","9.7",2,"16.6",0.911764705882353,0.104
+"Wayne Simien",4,"University of Kansas",".558","0.9","8.3",0.735849056603774,"15.0",0.735849056603774,0.083
+"Ben Simmons",1,"Louisiana State University",".560","4.8","11.8",0.818181818181818,"19.2",1.96969696969697,0.101
+"Bobby Simmons",3,"DePaul University",".428","2.2","7.5",0.182795698924731,"13.6",1.33333333333333,0.084
+"Cedric Simmons",2,"North Carolina State University",".565","1.1","4.1",1.82539682539683,"7.7",0.412698412698413,0.005
+"Chris Singleton",3,"Florida State University",".419","1.5","6.2",1.43157894736842,"10.3",1.89473684210526,0.042
+"Kyle Singler",4,"Duke University",".433","2.0","6.9",0.722972972972973,"16.2",1.13513513513514,0.062
+"Sean Singletary",4,"University of Virginia",".406","4.8","4.0",0.0569105691056911,"16.9",1.6260162601626,0.006
+"Peyton Siva",4,"University of Louisville",".417","4.7","2.4",0.131944444444444,"8.4",1.76388888888889,-0.032
+"Tamar Slay",4,"Marshall University",".443","2.2","4.4",0.464912280701754,"15.7",1.24561403508772,-0.029
+"Marcus Smart",2,"Oklahoma State University",".413","4.5","5.9",0.625,"16.6",2.9375,0.069
+"Craig Smith",4,"Boston College",".558","1.9","8.6",0.769230769230769,"18.1",1.28461538461538,0.113
+"Dennis Smith",1,"North Carolina State University",".455","6.2","4.6",0.4375,"18.1",1.9375,-0.014
+"Donta Smith",2,"Southeastern Illinois College",".558","3.2","6.3",NA,"20.8",NA,0.043
+"Jabari Smith",2,"Louisiana State University",".532","2.1","8.2",1.0655737704918,"12.6",0.918032786885246,0.058
+"Jason Smith",3,"Colorado State University",".548","2.0","7.9",1.71264367816092,"14.7",0.540229885057471,0.068
+"Mike Smith",2,"University of Louisiana at Monroe",".428","2.7","8.2",0.763636363636364,"19.3",1.63636363636364,-0.033
+"Nolan Smith",4,"Duke University",".448","2.8","2.8",0.132867132867133,"13.4",0.993006993006993,-0.047
+"Russ Smith",4,"University of Louisville",".413","2.8","2.7",0.0601503759398496,"14.3",1.93233082706767,-0.068
+"Tony Snell",3,"University of New Mexico",".421","2.0","2.4",0.346153846153846,"9.2",0.509615384615385,0.063
+"Kirk Snyder",3,"University of Nevada, Reno",".426","2.7","6.4",0.75,"16.7",0.904761904761905,0.061
+"Will Solomon",3,"Clemson University",".392","2.6","2.8",0.425531914893617,"15.2",1.19148936170213,0
+"Darius Songaila",4,"Wake Forest University",".511","1.8","6.3",0.738461538461539,"14.3",1.08461538461538,0.083
+"Pape Sow",3,"California State University, Fullerton",".468","0.8","9.1",0.847222222222222,"15.8",1.44444444444444,0.044
+"Marreese Speights",2,"University of Florida",".633","0.5","5.4",0.927536231884058,"9.5",0.333333333333333,0.117
+"Nik Stauskas",2,"University of Michigan",".467","2.3","2.9",0.266666666666667,"14.1",0.56,0.023
+"Lance Stephenson",1,"University of Cincinnati",".440","2.5","5.4",0.176470588235294,"12.3",0.911764705882353,0.072
+"Jarnell Stokes",3,"University of Tennessee",".530","1.5","9.6",1.08045977011494,"13.0",0.747126436781609,0.202
+"Diamond Stone",1,"University of Maryland",".568","0.4","5.4",1.57142857142857,"12.5",0.514285714285714,-0.211
+"Salim Stoudamire",4,"University of Arizona",".471","2.0","2.2",0.062015503875969,"15.2",0.767441860465116,0.04
+"D.J. Strawberry",4,"University of Maryland",".461","2.9","3.3",0.423423423423423,"10.1",1.81981981981982,-0.031
+"Rodney Stuckey",2,"Eastern Washington University",".472","4.8","4.7",0.288135593220339,"24.4",2.32203389830508,0.077
+"Jared Sullinger",2,"Ohio State University",".530","1.2","9.7",0.797297297297297,"17.3",1.08108108108108,0.113
+"DaJuan Summers",3,"Georgetown University",".439","1.3","4.4",0.633663366336634,"11.2",0.98019801980198,-0.008
+"Edmond Sumner",3,"Xavier University",".429","3.8","3.4",0.372881355932203,"11.2",1.15254237288136,NA
+"Caleb Swanigan",2,"Purdue University",".501","2.4","10.4",0.521739130434783,"14.4",0.391304347826087,-0.011
+"Mike Sweetney",3,"Georgetown University",".544","1.8","9.2",1.875,"18.2",1.05208333333333,0.103
+"Stromile Swift",2,"Louisiana State University",".560","0.7","7.0",2.6,"13.4",1.3,0.095
+"Chris Taft",2,"University of Pittsburgh",".569","1.1","7.5",1.69230769230769,"12.0",0.353846153846154,0.155
+"Jayson Tatum",1,"Duke University",".452","2.1","7.3",1.13793103448276,"16.8",1.3448275862069,0.178
+"Jermaine Taylor",4,"University of Central Florida",".466","1.4","3.9",0.401639344262295,"16.2",0.942622950819672,0.014
+"Jeff Taylor",4,"Vanderbilt University",".483","1.9","5.6",0.447761194029851,"14.2",1.08955223880597,0.024
+"Mike Taylor",1,"Iowa State University",".376","4.5","4.1",0.0967741935483871,"16.0",1.12903225806452,-0.028
+"Tyshawn Taylor",4,"University of Kansas",".477","3.9","2.2",0.212328767123288,"10.8",1.17808219178082,-0.088
+"Jeff Teague",2,"Wake Forest University",".462","3.0","3.0",0.573770491803279,"16.4",1.85245901639344,0.12
+"Marquis Teague",1,"University of Kentucky",".412","4.8","2.5",0.275,"10.0",0.925,-0.046
+"Hasheem Thabeet",3,"University of Connecticut",".611","0.4","8.5",4.17,"10.3",0.37,0.099
+"Xavier Thames",4,"San Diego State University",".395","2.8","2.6",0.171875,"10.7",1.125,NA
+"Deshaun Thomas",3,"Ohio State University",".478","0.9","5.0",0.230088495575221,"14.4",0.424778761061947,NA
+"Etan Thomas",4,"Syracuse University",".600","0.4","6.9",3.47540983606557,"11.0",0.69672131147541,0.101
+"Isaiah Thomas",3,"University of Washington",".426","4.0","3.5",0.0666666666666667,"16.4",1.16190476190476,0.162
+"Tyrus Thomas",1,"Louisiana State University",".608","1.3","9.2",3.09375,"12.3",1.03125,0.078
+"Dijon Thompson",4,"University of California, Los Angeles",".464","2.0","4.7",0.316239316239316,"12.5",1.13675213675214,0.102
+"Jason Thompson",4,"Rider University",".526","2.0","9.6",1.92622950819672,"16.7",0.852459016393443,0.077
+"Klay Thompson",3,"Washington State University",".424","2.6","4.8",0.755102040816326,"17.9",1.3265306122449,0.116
+"Tristan Thompson",1,"University of Texas at Austin",".546","1.3","7.8",2.38888888888889,"13.1",0.944444444444444,0.125
+"Trey Thompkins",3,"University of Georgia",".469","1.4","7.8",1.31460674157303,"15.7",1.01123595505618,0.004
+"Al Thornton",4,"Florida State University",".528","0.7","5.2",0.596774193548387,"12.3",0.830645161290323,0.035
+"Marcus Thornton",2,"Louisiana State University",".455","1.8","5.5",0.348484848484849,"20.4",1.5,0.085
+"Marcus Thornton",4,"College of William & Mary",".430","2.4","2.6",0.244094488188976,"17.1",0.724409448818898,NA
+"Sindarius Thornwell",4,"University of South Carolina",".392","3.0","5.2",0.590909090909091,"14.7",1.50757575757576,0.038
+"Jamaal Tinsley",2,"Iowa State University",".388","6.3","4.5",0.823529411764706,"12.5",2.60294117647059,0.057
+"J.P. Tokoto",3,"University of North Carolina",".462","2.7","4.4",0.336448598130841,"6.7",1.19626168224299,NA
+"Karl-Anthony Towns",1,"University of Kentucky",".566","1.1","6.7",2.25641025641026,"10.3",0.461538461538462,0.185
+"Jeff Trepagnier",4,"University of Southern California",".471","1.3","5.2",0.990566037735849,"10.6",1.92452830188679,-0.038
+"Alando Tucker",5,"University of Wisconsin",".480","1.6","5.7",0.216417910447761,"16.5",0.776119402985075,0.045
+"P.J. Tucker",3,"University of Texas at Austin",".526","2.0","8.2",0.264367816091954,"13.4",1.33333333333333,0.086
+"Ronny Turiaf",4,"Gonzaga University",".518","1.0","6.8",1.40944881889764,"13.6",0.480314960629921,0.115
+"Evan Turner",3,"Ohio State University",".502","4.1","6.8",0.732673267326733,"15.0",1.57425742574257,0.051
+"Myles Turner",1,"University of Texas at Austin",".455","0.6","6.5",2.61764705882353,"10.1",0.294117647058824,0.132
+"Ekpe Udoh",3,"Baylor University",".472","1.5","6.3",2.83495145631068,"8.4",0.766990291262136,0.074
+"Tyler Ulis",2,"University of Kentucky",".427","5.3","2.4",0.0833333333333333,"11.3",1.22222222222222,0.013
+"Denzel Valentine",4,"Michigan State University",".442","4.4","5.9",0.277777777777778,"11.4",0.916666666666667,0.052
+"Jarvis Varnado",4,"Mississippi State University",".589","0.6","7.8",4,"10.0",0.539007092198582,0.089
+"Greivis Vasquez",4,"University of Maryland",".425","5.7","4.8",0.286764705882353,"16.0",1.40441176470588,0.064
+"Rashad Vaughn",1,"University of Nevada, Las Vegas",".439","1.6","4.8",0.347826086956522,"17.8",0.782608695652174,-0.014
+"Charlie Villanueva",2,"University of Connecticut",".518","1.0","6.7",1.66666666666667,"11.2",0.412698412698413,0.08
+"Noah Vonleh",1,"Indiana University",".523","0.6","9.0",1.36666666666667,"11.3",0.866666666666667,0.07
+"Jake Voskuhl",4,"University of Connecticut",".542","0.9","6.4",1.39855072463768,"6.3",0.623188405797101,0.087
+"Jackson Vroman",2,"Iowa State University",".558","2.1","9.5",1.11111111111111,"13.2",1.22222222222222,0.001
+"Nikola Vucevic",3,"University of Southern California",".509","1.1","8.0",1.09195402298851,"11.1",0.517241379310345,0.114
+"Dwyane Wade",2,"Marquette University",".494","3.9","6.5",1.21538461538462,"19.7",2.30769230769231,0.171
+"Von Wafer",2,"Florida State University",".405","1.4","2.2",0.213114754098361,"10.1",0.885245901639344,0.064
+"Dajuan Wagner",1,"University of Memphis",".410","3.6","2.5",0.555555555555556,"21.2",1.19444444444444,0
+"Dion Waiters",2,"Syracuse University",".453","2.0","1.9",0.225352112676056,"9.7",1.47887323943662,0.034
+"Bill Walker",2,"Kansas State University",".456","1.7","6.0",0.459459459459459,"15.3",0.837837837837838,0.079
+"Kemba Walker",3,"University of Connecticut",".428","4.1","4.4",0.252252252252252,"16.1",1.66666666666667,0.109
+"Gerald Wallace",1,"University of Alabama",".438","1.5","6.0",1.02777777777778,"9.8",1.16666666666667,0.116
+"Tyrone Wallace",4,"University of California",".415","3.4","5.2",0.426356589147287,"12.6",1.07751937984496,0.119
+"John Wall",1,"University of Kentucky",".461","6.5","4.3",0.513513513513513,"16.6",1.78378378378378,0.108
+"Luke Walton",4,"University of Arizona",".426","4.5","5.1",0.449612403100775,"9.1",1.17054263565891,0.067
+"T.J. Warren",2,"North Carolina State University",".555","1.0","5.7",0.514285714285714,"18.5",1.5,0.094
+"Willie Warren",2,"University of Oklahoma",".459","3.5","2.6",0.0526315789473684,"15.2",1.08771929824561,0.065
+"Hakim Warrick",4,"Syracuse University",".536","1.5","7.6",0.948148148148148,"15.4",0.97037037037037,0.092
+"Earl Watson",4,"University of California, Los Angeles",".450","4.7","3.8",0.37984496124031,"11.2",1.82170542635659,0.047
+"Kyle Weaver",4,"Washington State University",".464","3.8","4.7",0.768595041322314,"9.6",1.55371900826446,0.051
+"Sonny Weems",2,"University of Arkansas",".473","2.3","4.6",0.333333333333333,"13.3",1.30434782608696,0.001
+"Russell Westbrook",2,"University of California, Los Angeles",".464","2.5","2.4",0.106666666666667,"8.3",1.02666666666667,0.169
+"David West",4,"Xavier University",".531","2.1","10.4",1.80952380952381,"16.9",1.38095238095238,0.142
+"Delonte West",3,"Saint Joseph's University",".489","3.0","4.2",0.168539325842697,"13.9",1.35955056179775,0.099
+"Robert Whaley",4,"Walsh University",".508","1.1","6.4",NA,"15.7",NA,0.004
+"Aaron White",4,"University of Iowa",".517","1.4","6.4",0.607142857142857,"13.3",1.06428571428571,NA
+"Derrick White",1,"University of Colorado",".507","4.4","4.1",1.44117647058824,"18.1",1.23529411764706,0.087
+"D.J. White",4,"Indiana University",".562","0.9","7.6",2,"14.6",0.686868686868687,0.087
+"Hassan Whiteside",1,"Marshall University",".524","0.3","8.9",5.35294117647059,"13.1",0.558823529411765,0.206
+"Isaiah Whitehead",2,"Seton Hall University",".375","4.5","3.7",1.125,"15.8",1.25,-0.024
+"James White",4,"University of Cincinnati",".444","2.6","4.2",0.609756097560976,"10.3",0.951219512195122,0.062
+"Rodney White",1,"University of North Carolina at Charlotte",".487","1.5","6.5",0.714285714285714,"18.7",1.21428571428571,0.026
+"Royce White",1,"Iowa State University",".534","5.0","9.3",0.941176470588235,"13.4",1.17647058823529,-0.121
+"Andrew Wiggins",1,"University of Kansas",".448","1.5","5.9",0.971428571428571,"17.1",1.17142857142857,0.055
+"Chris Wilcox",2,"University of Maryland",".520","1.0","4.7",1.01428571428571,"7.9",0.485714285714286,0.103
+"C.J. Wilcox",4,"University of Washington",".433","1.6","3.4",0.748091603053435,"14.4",0.854961832061069,0.007
+"Deron Williams",3,"University of Illinois at Urbana-Champaign",".422","5.9","3.3",0.217821782178218,"11.0",1.13861386138614,0.129
+"Derrick Williams",2,"University of Arizona",".586","0.9","7.7",0.666666666666667,"17.8",0.811594202898551,0.076
+"Elliot Williams",2,"University of Memphis",".454","2.2","3.1",0.0735294117647059,"11.1",0.970588235294118,0.024
+"Frank Williams",3,"University of Illinois at Urbana-Champaign",".396","4.3","4.0",0.277227722772277,"14.3",2.0990099009901,0.003
+"Jay Williams",3,"Duke University",".453","6.0","3.7",0.12962962962963,"19.3",2.17592592592593,0.02
+"Jordan Williams",2,"University of Maryland",".528","0.4","10.2",1.16666666666667,"13.2",0.712121212121212,0.101
+"Mo Williams",2,"University of Alabama",".405","4.2","3.9",0.140625,"13.1",1.484375,0.08
+"Marvin Williams",1,"University of North Carolina",".506","0.7","6.6",0.472222222222222,"11.3",1.08333333333333,0.106
+"Marcus Williams",3,"University of Connecticut",".402","7.3","3.2",0.2,"9.0",1.02857142857143,-0.001
+"Marcus Williams",2,"University of Arizona",".475","2.0","5.6",NA,"14.7",NA,-0.084
+"Nigel Williams-Goss",3,"Gonzaga University",".464","5.0","5.1",0.13,"15.4",1.33,NA
+"Sean Williams",3,"Boston College",".577","0.6","4.2",2.79710144927536,"5.5",0.608695652173913,0.073
+"Shelden Williams",4,"Duke University",".572","0.9","9.1",3.03597122302158,"13.9",1.15827338129496,0.085
+"Shawne Williams",1,"University of Memphis",".416","1.9","6.2",1.36111111111111,"13.2",1.38888888888889,0.06
+"Terrence Williams",4,"University of Louisville",".400","3.9","6.9",0.642857142857143,"11.2",1.5,-0.004
+"D.J. Wilson",3,"University of Michigan",".525","0.8","3.3",1.01449275362319,"7.1",0.36231884057971,-0.095
+"Justise Winslow",1,"Duke University",".486","2.1","6.5",0.871794871794872,"12.6",1.33333333333333,0.046
+"Jeff Withey",4,"University of Kansas",".568","0.6","5.4",2.65811965811966,"8.0",0.504273504273504,0.157
+"Nate Wolters",4,"South Dakota State University",".450","5.3","4.7",0.165354330708661,"18.5",1.51181102362205,0.028
+"Loren Woods",4,"University of Arizona",".493","1.3","6.5",2.62616822429907,"11.1",0.514018691588785,0.062
+"Qyntel Woods",1,"Northeast Mississippi Community College",".483","1.8","10.0",NA,"32.3",NA,0.032
+"Antoine Wright",3,"Texas A&M University",".412","2.1","5.6",0.574712643678161,"15.4",1.09195402298851,0.026
+"Bracey Wright",3,"Indiana University",".405","2.4","5.1",0.552941176470588,"17.6",0.929411764705882,0.068
+"Brandan Wright",1,"University of North Carolina",".646","1.0","6.2",1.75675675675676,"14.7",0.972972972972973,0.183
+"Delon Wright",2,"University of Utah",".535","5.2","5.8",1.13235294117647,"15.0",2.27941176470588,0.143
+"Julian Wright",2,"University of Kansas",".555","2.0","6.3",1.28169014084507,"10.4",1.2112676056338,0.061
+"Tony Wroten",1,"University of Washington",".443","3.7","5.0",0.371428571428571,"16.0",1.88571428571429,-0.021
+"Vincent Yarbrough",4,"University of Tennessee",".440","2.3","6.8",1.03149606299213,"13.7",1.66141732283465,0.035
+"James Young",1,"University of Kentucky",".407","1.7","4.3",0.2,"14.3",0.75,0.047
+"Joseph Young",4,"University of Oregon",".453","2.7","3.6",0.0606060606060606,"17.5",0.984848484848485,0.023
+"Nick Young",3,"University of Southern California",".484","1.4","5.1",0.270833333333333,"15.5",0.833333333333333,0.055
+"Sam Young",4,"University of Pittsburgh",".498","1.0","5.0",0.762237762237762,"13.2",0.832167832167832,0.063
+"Thaddeus Young",1,"Georgia Institute of Technology",".478","2.0","4.9",0.387096774193548,"14.4",1.25806451612903,0.1
+"Cody Zeller",2,"Indiana University",".592","1.3","7.3",1.20833333333333,"16.1",1.19444444444444,0.138
+"Tyler Zeller",4,"University of North Carolina",".543","0.6","6.7",1.11111111111111,"12.8",0.666666666666667,0.11
+"Derrick Zimmerman",4,"Mississippi State University",".477","4.0","3.3",0.700787401574803,"6.9",1.61417322834646,0.004
+"Stephen Zimmerman",1,"University of Nevada, Las Vegas",".477","0.8","8.7",1.96153846153846,"10.5",0.538461538461538,-0.005
